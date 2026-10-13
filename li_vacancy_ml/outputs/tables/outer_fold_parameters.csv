@@ -1,0 +1,1249 @@
+row_index,material,inner_cv_mae,best_params,experiment,model,feature_count
+0,Li5FeO4,,{},M1,Dummy,1
+1,Li6CoO4,,{},M1,Dummy,1
+2,Li2NiO2,,{},M1,Dummy,1
+3,Li2CuO2,,{},M1,Dummy,1
+4,Li4SiO4,,{},M1,Dummy,1
+5,Li6MnO4,,{},M1,Dummy,1
+6,Li6ZnO4,,{},M1,Dummy,1
+7,Li5AlO4,,{},M1,Dummy,1
+8,Li2MoO3,,{},M1,Dummy,1
+9,Li8ZrO6,,{},M1,Dummy,1
+10,Li3BO3,,{},M1,Dummy,1
+11,LiNO3,,{},M1,Dummy,1
+12,Li2O2,,{},M1,Dummy,1
+13,Li2O,,{},M1,Dummy,1
+14,Li2S,,{},M1,Dummy,1
+15,Li3N,,{},M1,Dummy,1
+16,Li3P,,{},M1,Dummy,1
+17,Li2Se,,{},M1,Dummy,1
+18,LiF,,{},M1,Dummy,1
+19,LiC6,,{},M1,Dummy,1
+20,Li2C2,,{},M1,Dummy,1
+21,Li2CO3,,{},M1,Dummy,1
+22,Li2C2O4,,{},M1,Dummy,1
+23,Li2C4O4,,{},M1,Dummy,1
+0,Li5FeO4,0.7820129813138709,"{""model__alpha"": 1.0}",M1,Ridge,1
+1,Li6CoO4,0.728768573182459,"{""model__alpha"": 1.0}",M1,Ridge,1
+2,Li2NiO2,0.7678473859889475,"{""model__alpha"": 1.0}",M1,Ridge,1
+3,Li2CuO2,0.738610679035545,"{""model__alpha"": 1.0}",M1,Ridge,1
+4,Li4SiO4,0.7685619365175405,"{""model__alpha"": 1.0}",M1,Ridge,1
+5,Li6MnO4,0.7202608281321291,"{""model__alpha"": 1.0}",M1,Ridge,1
+6,Li6ZnO4,0.7839415550679925,"{""model__alpha"": 1.0}",M1,Ridge,1
+7,Li5AlO4,0.7836197780569478,"{""model__alpha"": 1.0}",M1,Ridge,1
+8,Li2MoO3,0.7831162775043709,"{""model__alpha"": 1.0}",M1,Ridge,1
+9,Li8ZrO6,0.7646538286590536,"{""model__alpha"": 1.0}",M1,Ridge,1
+10,Li3BO3,0.7765141347760445,"{""model__alpha"": 1.0}",M1,Ridge,1
+11,LiNO3,0.6723286224252764,"{""model__alpha"": 0.1}",M1,Ridge,1
+12,Li2O2,0.7371471012273767,"{""model__alpha"": 1.0}",M1,Ridge,1
+13,Li2O,0.7172039149715546,"{""model__alpha"": 1.0}",M1,Ridge,1
+14,Li2S,0.7420196353538018,"{""model__alpha"": 1.0}",M1,Ridge,1
+15,Li3N,0.6983440359970396,"{""model__alpha"": 0.1}",M1,Ridge,1
+16,Li3P,0.7375662425846252,"{""model__alpha"": 0.1}",M1,Ridge,1
+17,Li2Se,0.7362702992300527,"{""model__alpha"": 0.1}",M1,Ridge,1
+18,LiF,0.7594429084561595,"{""model__alpha"": 0.01}",M1,Ridge,1
+19,LiC6,0.7358818437473824,"{""model__alpha"": 0.01}",M1,Ridge,1
+20,Li2C2,0.7494112228857054,"{""model__alpha"": 0.1}",M1,Ridge,1
+21,Li2CO3,0.773393398472766,"{""model__alpha"": 0.1}",M1,Ridge,1
+22,Li2C2O4,0.6934753700259741,"{""model__alpha"": 0.01}",M1,Ridge,1
+23,Li2C4O4,0.7408905071598352,"{""model__alpha"": 0.01}",M1,Ridge,1
+0,Li5FeO4,0.7905130398254029,"{""model__n_components"": 1}",M1,PLS,1
+1,Li6CoO4,0.7409617641407111,"{""model__n_components"": 1}",M1,PLS,1
+2,Li2NiO2,0.7715022228206448,"{""model__n_components"": 1}",M1,PLS,1
+3,Li2CuO2,0.7534356528916424,"{""model__n_components"": 1}",M1,PLS,1
+4,Li4SiO4,0.7781738896177812,"{""model__n_components"": 1}",M1,PLS,1
+5,Li6MnO4,0.7291242029897861,"{""model__n_components"": 1}",M1,PLS,1
+6,Li6ZnO4,0.790066730823616,"{""model__n_components"": 1}",M1,PLS,1
+7,Li5AlO4,0.7920085375603618,"{""model__n_components"": 1}",M1,PLS,1
+8,Li2MoO3,0.7877611688361739,"{""model__n_components"": 1}",M1,PLS,1
+9,Li8ZrO6,0.76736147540749,"{""model__n_components"": 1}",M1,PLS,1
+10,Li3BO3,0.7777142527494275,"{""model__n_components"": 1}",M1,PLS,1
+11,LiNO3,0.6726851388507906,"{""model__n_components"": 1}",M1,PLS,1
+12,Li2O2,0.7389294348456733,"{""model__n_components"": 1}",M1,PLS,1
+13,Li2O,0.7194444244853799,"{""model__n_components"": 1}",M1,PLS,1
+14,Li2S,0.7452340005007618,"{""model__n_components"": 1}",M1,PLS,1
+15,Li3N,0.6986262149918755,"{""model__n_components"": 1}",M1,PLS,1
+16,Li3P,0.7382726717780421,"{""model__n_components"": 1}",M1,PLS,1
+17,Li2Se,0.7366845224107266,"{""model__n_components"": 1}",M1,PLS,1
+18,LiF,0.7593954085098252,"{""model__n_components"": 1}",M1,PLS,1
+19,LiC6,0.735708391175532,"{""model__n_components"": 1}",M1,PLS,1
+20,Li2C2,0.7502079701632723,"{""model__n_components"": 1}",M1,PLS,1
+21,Li2CO3,0.7738316591832552,"{""model__n_components"": 1}",M1,PLS,1
+22,Li2C2O4,0.6933776155489387,"{""model__n_components"": 1}",M1,PLS,1
+23,Li2C4O4,0.7409438249569401,"{""model__n_components"": 1}",M1,PLS,1
+0,Li5FeO4,0.7414731537923503,"{""model__C"": 10.0, ""model__epsilon"": 0.01}",M1,SVR_linear,1
+1,Li6CoO4,0.683080975539607,"{""model__C"": 100.0, ""model__epsilon"": 0.01}",M1,SVR_linear,1
+2,Li2NiO2,0.7391509290713444,"{""model__C"": 1.0, ""model__epsilon"": 0.01}",M1,SVR_linear,1
+3,Li2CuO2,0.7031660235618535,"{""model__C"": 10.0, ""model__epsilon"": 0.01}",M1,SVR_linear,1
+4,Li4SiO4,0.7344769878271321,"{""model__C"": 1.0, ""model__epsilon"": 0.1}",M1,SVR_linear,1
+5,Li6MnO4,0.6899489548922615,"{""model__C"": 10.0, ""model__epsilon"": 0.01}",M1,SVR_linear,1
+6,Li6ZnO4,0.7413880294732649,"{""model__C"": 1.0, ""model__epsilon"": 0.2}",M1,SVR_linear,1
+7,Li5AlO4,0.7434939026588048,"{""model__C"": 1.0, ""model__epsilon"": 0.2}",M1,SVR_linear,1
+8,Li2MoO3,0.7582442327097259,"{""model__C"": 10.0, ""model__epsilon"": 0.1}",M1,SVR_linear,1
+9,Li8ZrO6,0.7491436287897283,"{""model__C"": 1.0, ""model__epsilon"": 0.1}",M1,SVR_linear,1
+10,Li3BO3,0.7581993898422577,"{""model__C"": 1.0, ""model__epsilon"": 0.1}",M1,SVR_linear,1
+11,LiNO3,0.6522797367630889,"{""model__C"": 1.0, ""model__epsilon"": 0.2}",M1,SVR_linear,1
+12,Li2O2,0.6997218753243438,"{""model__C"": 100.0, ""model__epsilon"": 0.1}",M1,SVR_linear,1
+13,Li2O,0.7095491477086456,"{""model__C"": 1.0, ""model__epsilon"": 0.1}",M1,SVR_linear,1
+14,Li2S,0.7477732408676439,"{""model__C"": 100.0, ""model__epsilon"": 0.1}",M1,SVR_linear,1
+15,Li3N,0.7135967788573403,"{""model__C"": 100.0, ""model__epsilon"": 0.01}",M1,SVR_linear,1
+16,Li3P,0.7580541450987457,"{""model__C"": 1.0, ""model__epsilon"": 0.01}",M1,SVR_linear,1
+17,Li2Se,0.7496042380790235,"{""model__C"": 1.0, ""model__epsilon"": 0.01}",M1,SVR_linear,1
+18,LiF,0.7753828081479981,"{""model__C"": 1.0, ""model__epsilon"": 0.2}",M1,SVR_linear,1
+19,LiC6,0.7391060595071763,"{""model__C"": 100.0, ""model__epsilon"": 0.1}",M1,SVR_linear,1
+20,Li2C2,0.7201487571133953,"{""model__C"": 100.0, ""model__epsilon"": 0.2}",M1,SVR_linear,1
+21,Li2CO3,0.7407341324698928,"{""model__C"": 100.0, ""model__epsilon"": 0.2}",M1,SVR_linear,1
+22,Li2C2O4,0.6764690301025398,"{""model__C"": 10.0, ""model__epsilon"": 0.2}",M1,SVR_linear,1
+23,Li2C4O4,0.7054194013935217,"{""model__C"": 1.0, ""model__epsilon"": 0.2}",M1,SVR_linear,1
+0,Li5FeO4,0.8059430392469482,"{""model__C"": 100.0, ""model__epsilon"": 0.1, ""model__gamma"": 0.01}",M1,SVR_rbf,1
+1,Li6CoO4,0.7591427873052369,"{""model__C"": 100.0, ""model__epsilon"": 0.1, ""model__gamma"": 0.01}",M1,SVR_rbf,1
+2,Li2NiO2,0.7726851041223944,"{""model__C"": 100.0, ""model__epsilon"": 0.1, ""model__gamma"": 0.01}",M1,SVR_rbf,1
+3,Li2CuO2,0.738608397002209,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M1,SVR_rbf,1
+4,Li4SiO4,0.7613750893640393,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M1,SVR_rbf,1
+5,Li6MnO4,0.7295631352384662,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M1,SVR_rbf,1
+6,Li6ZnO4,0.7768508562807639,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M1,SVR_rbf,1
+7,Li5AlO4,0.7881028206198202,"{""model__C"": 100.0, ""model__epsilon"": 0.1, ""model__gamma"": 0.01}",M1,SVR_rbf,1
+8,Li2MoO3,0.7862853064194992,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M1,SVR_rbf,1
+9,Li8ZrO6,0.7827893246238885,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M1,SVR_rbf,1
+10,Li3BO3,0.792332020455313,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M1,SVR_rbf,1
+11,LiNO3,0.68606453684165,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M1,SVR_rbf,1
+12,Li2O2,0.743344758087955,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M1,SVR_rbf,1
+13,Li2O,0.731974009841567,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M1,SVR_rbf,1
+14,Li2S,0.8170345159759531,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M1,SVR_rbf,1
+15,Li3N,0.7508768133518083,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M1,SVR_rbf,1
+16,Li3P,0.786881607423067,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M1,SVR_rbf,1
+17,Li2Se,0.7970770467459378,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M1,SVR_rbf,1
+18,LiF,0.7942307504123831,"{""model__C"": 100.0, ""model__epsilon"": 0.1, ""model__gamma"": 0.01}",M1,SVR_rbf,1
+19,LiC6,0.812844035009013,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M1,SVR_rbf,1
+20,Li2C2,0.8137752895688241,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M1,SVR_rbf,1
+21,Li2CO3,0.8285505933048809,"{""model__C"": 100.0, ""model__epsilon"": 0.1, ""model__gamma"": 0.01}",M1,SVR_rbf,1
+22,Li2C2O4,0.7158987893210115,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M1,SVR_rbf,1
+23,Li2C4O4,0.7471130536416232,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M1,SVR_rbf,1
+0,Li5FeO4,,{},M1,Eg_linear,1
+1,Li6CoO4,,{},M1,Eg_linear,1
+2,Li2NiO2,,{},M1,Eg_linear,1
+3,Li2CuO2,,{},M1,Eg_linear,1
+4,Li4SiO4,,{},M1,Eg_linear,1
+5,Li6MnO4,,{},M1,Eg_linear,1
+6,Li6ZnO4,,{},M1,Eg_linear,1
+7,Li5AlO4,,{},M1,Eg_linear,1
+8,Li2MoO3,,{},M1,Eg_linear,1
+9,Li8ZrO6,,{},M1,Eg_linear,1
+10,Li3BO3,,{},M1,Eg_linear,1
+11,LiNO3,,{},M1,Eg_linear,1
+12,Li2O2,,{},M1,Eg_linear,1
+13,Li2O,,{},M1,Eg_linear,1
+14,Li2S,,{},M1,Eg_linear,1
+15,Li3N,,{},M1,Eg_linear,1
+16,Li3P,,{},M1,Eg_linear,1
+17,Li2Se,,{},M1,Eg_linear,1
+18,LiF,,{},M1,Eg_linear,1
+19,LiC6,,{},M1,Eg_linear,1
+20,Li2C2,,{},M1,Eg_linear,1
+21,Li2CO3,,{},M1,Eg_linear,1
+22,Li2C2O4,,{},M1,Eg_linear,1
+23,Li2C4O4,,{},M1,Eg_linear,1
+0,Li5FeO4,,{},M2,Dummy,5
+1,Li6CoO4,,{},M2,Dummy,5
+2,Li2NiO2,,{},M2,Dummy,5
+3,Li2CuO2,,{},M2,Dummy,5
+4,Li4SiO4,,{},M2,Dummy,5
+5,Li6MnO4,,{},M2,Dummy,5
+6,Li6ZnO4,,{},M2,Dummy,5
+7,Li5AlO4,,{},M2,Dummy,5
+8,Li2MoO3,,{},M2,Dummy,5
+9,Li8ZrO6,,{},M2,Dummy,5
+10,Li3BO3,,{},M2,Dummy,5
+11,LiNO3,,{},M2,Dummy,5
+12,Li2O2,,{},M2,Dummy,5
+13,Li2O,,{},M2,Dummy,5
+14,Li2S,,{},M2,Dummy,5
+15,Li3N,,{},M2,Dummy,5
+16,Li3P,,{},M2,Dummy,5
+17,Li2Se,,{},M2,Dummy,5
+18,LiF,,{},M2,Dummy,5
+19,LiC6,,{},M2,Dummy,5
+20,Li2C2,,{},M2,Dummy,5
+21,Li2CO3,,{},M2,Dummy,5
+22,Li2C2O4,,{},M2,Dummy,5
+23,Li2C4O4,,{},M2,Dummy,5
+0,Li5FeO4,0.8330651472132982,"{""model__alpha"": 1.0}",M2,Ridge,5
+1,Li6CoO4,0.7454351437743211,"{""model__alpha"": 1.0}",M2,Ridge,5
+2,Li2NiO2,0.8120460774826839,"{""model__alpha"": 0.1}",M2,Ridge,5
+3,Li2CuO2,0.8119322156679274,"{""model__alpha"": 0.1}",M2,Ridge,5
+4,Li4SiO4,0.8379487665765721,"{""model__alpha"": 0.1}",M2,Ridge,5
+5,Li6MnO4,0.7503099943659448,"{""model__alpha"": 0.01}",M2,Ridge,5
+6,Li6ZnO4,0.855029326165164,"{""model__alpha"": 0.1}",M2,Ridge,5
+7,Li5AlO4,0.8510850762411775,"{""model__alpha"": 0.1}",M2,Ridge,5
+8,Li2MoO3,0.8883847956876985,"{""model__alpha"": 0.1}",M2,Ridge,5
+9,Li8ZrO6,0.8757374748094925,"{""model__alpha"": 0.1}",M2,Ridge,5
+10,Li3BO3,0.8821041953236323,"{""model__alpha"": 0.1}",M2,Ridge,5
+11,LiNO3,0.805278367859492,"{""model__alpha"": 0.1}",M2,Ridge,5
+12,Li2O2,0.8666716416541178,"{""model__alpha"": 0.1}",M2,Ridge,5
+13,Li2O,0.799573532178733,"{""model__alpha"": 1.0}",M2,Ridge,5
+14,Li2S,0.8483534924834452,"{""model__alpha"": 0.1}",M2,Ridge,5
+15,Li3N,0.8704442630275656,"{""model__alpha"": 1.0}",M2,Ridge,5
+16,Li3P,0.8596762237074955,"{""model__alpha"": 1.0}",M2,Ridge,5
+17,Li2Se,0.8070105445895756,"{""model__alpha"": 0.1}",M2,Ridge,5
+18,LiF,0.8265897215798594,"{""model__alpha"": 0.1}",M2,Ridge,5
+19,LiC6,0.8113342015201503,"{""model__alpha"": 1.0}",M2,Ridge,5
+20,Li2C2,0.7371162419164993,"{""model__alpha"": 1.0}",M2,Ridge,5
+21,Li2CO3,0.7983292476534964,"{""model__alpha"": 0.1}",M2,Ridge,5
+22,Li2C2O4,0.7159397775687061,"{""model__alpha"": 1.0}",M2,Ridge,5
+23,Li2C4O4,0.7411958573633181,"{""model__alpha"": 1.0}",M2,Ridge,5
+0,Li5FeO4,0.831756934239451,"{""model__n_components"": 2}",M2,PLS,5
+1,Li6CoO4,0.7660345308422288,"{""model__n_components"": 4}",M2,PLS,5
+2,Li2NiO2,0.8080925106682338,"{""model__n_components"": 4}",M2,PLS,5
+3,Li2CuO2,0.809946215917774,"{""model__n_components"": 4}",M2,PLS,5
+4,Li4SiO4,0.8153871916459245,"{""model__n_components"": 4}",M2,PLS,5
+5,Li6MnO4,0.7508748952183584,"{""model__n_components"": 5}",M2,PLS,5
+6,Li6ZnO4,0.8502143817654251,"{""model__n_components"": 4}",M2,PLS,5
+7,Li5AlO4,0.8214965033702631,"{""model__n_components"": 4}",M2,PLS,5
+8,Li2MoO3,0.8424918475400401,"{""model__n_components"": 4}",M2,PLS,5
+9,Li8ZrO6,0.8137861064126367,"{""model__n_components"": 4}",M2,PLS,5
+10,Li3BO3,0.8257823374424429,"{""model__n_components"": 4}",M2,PLS,5
+11,LiNO3,0.7797473924882845,"{""model__n_components"": 4}",M2,PLS,5
+12,Li2O2,0.8379642575258378,"{""model__n_components"": 3}",M2,PLS,5
+13,Li2O,0.8109332589071151,"{""model__n_components"": 3}",M2,PLS,5
+14,Li2S,0.7984147332165956,"{""model__n_components"": 4}",M2,PLS,5
+15,Li3N,0.8213272359639439,"{""model__n_components"": 4}",M2,PLS,5
+16,Li3P,0.8286655265948237,"{""model__n_components"": 4}",M2,PLS,5
+17,Li2Se,0.7887116125900713,"{""model__n_components"": 4}",M2,PLS,5
+18,LiF,0.7985597135490695,"{""model__n_components"": 4}",M2,PLS,5
+19,LiC6,0.7908321322079818,"{""model__n_components"": 2}",M2,PLS,5
+20,Li2C2,0.7267083069371502,"{""model__n_components"": 3}",M2,PLS,5
+21,Li2CO3,0.7756181283576948,"{""model__n_components"": 3}",M2,PLS,5
+22,Li2C2O4,0.6978884327824276,"{""model__n_components"": 3}",M2,PLS,5
+23,Li2C4O4,0.7186411543923839,"{""model__n_components"": 3}",M2,PLS,5
+0,Li5FeO4,0.804227914510407,"{""model__C"": 100.0, ""model__epsilon"": 0.01}",M2,SVR_linear,5
+1,Li6CoO4,0.7496970607023782,"{""model__C"": 100.0, ""model__epsilon"": 0.2}",M2,SVR_linear,5
+2,Li2NiO2,0.7842145216882809,"{""model__C"": 1.0, ""model__epsilon"": 0.1}",M2,SVR_linear,5
+3,Li2CuO2,0.8021725086361414,"{""model__C"": 1.0, ""model__epsilon"": 0.01}",M2,SVR_linear,5
+4,Li4SiO4,0.8607500110510937,"{""model__C"": 0.1, ""model__epsilon"": 0.01}",M2,SVR_linear,5
+5,Li6MnO4,0.7906823256653948,"{""model__C"": 1.0, ""model__epsilon"": 0.2}",M2,SVR_linear,5
+6,Li6ZnO4,0.8593740465910644,"{""model__C"": 1.0, ""model__epsilon"": 0.2}",M2,SVR_linear,5
+7,Li5AlO4,0.8393132942051661,"{""model__C"": 1.0, ""model__epsilon"": 0.2}",M2,SVR_linear,5
+8,Li2MoO3,0.8525237516177666,"{""model__C"": 10.0, ""model__epsilon"": 0.2}",M2,SVR_linear,5
+9,Li8ZrO6,0.8288900216085716,"{""model__C"": 1.0, ""model__epsilon"": 0.01}",M2,SVR_linear,5
+10,Li3BO3,0.8271061529961511,"{""model__C"": 1.0, ""model__epsilon"": 0.01}",M2,SVR_linear,5
+11,LiNO3,0.6953061074917766,"{""model__C"": 1.0, ""model__epsilon"": 0.2}",M2,SVR_linear,5
+12,Li2O2,0.7934482884490339,"{""model__C"": 1.0, ""model__epsilon"": 0.1}",M2,SVR_linear,5
+13,Li2O,0.8238810301999632,"{""model__C"": 1.0, ""model__epsilon"": 0.2}",M2,SVR_linear,5
+14,Li2S,0.7054850169201398,"{""model__C"": 1.0, ""model__epsilon"": 0.01}",M2,SVR_linear,5
+15,Li3N,0.7665034745578135,"{""model__C"": 1.0, ""model__epsilon"": 0.2}",M2,SVR_linear,5
+16,Li3P,0.748884866374828,"{""model__C"": 1.0, ""model__epsilon"": 0.1}",M2,SVR_linear,5
+17,Li2Se,0.7192304562858927,"{""model__C"": 1.0, ""model__epsilon"": 0.01}",M2,SVR_linear,5
+18,LiF,0.7502627878279995,"{""model__C"": 10.0, ""model__epsilon"": 0.2}",M2,SVR_linear,5
+19,LiC6,0.82840323869686,"{""model__C"": 100.0, ""model__epsilon"": 0.2}",M2,SVR_linear,5
+20,Li2C2,0.7530746123928678,"{""model__C"": 1.0, ""model__epsilon"": 0.2}",M2,SVR_linear,5
+21,Li2CO3,0.8413057564519596,"{""model__C"": 100.0, ""model__epsilon"": 0.2}",M2,SVR_linear,5
+22,Li2C2O4,0.7610436102440407,"{""model__C"": 1.0, ""model__epsilon"": 0.2}",M2,SVR_linear,5
+23,Li2C4O4,0.7761262475738354,"{""model__C"": 1.0, ""model__epsilon"": 0.01}",M2,SVR_linear,5
+0,Li5FeO4,0.8148641289150194,"{""model__C"": 10.0, ""model__epsilon"": 0.1, ""model__gamma"": 0.01}",M2,SVR_rbf,5
+1,Li6CoO4,0.7958871034954906,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M2,SVR_rbf,5
+2,Li2NiO2,0.865486100806389,"{""model__C"": 10.0, ""model__epsilon"": 0.1, ""model__gamma"": 0.01}",M2,SVR_rbf,5
+3,Li2CuO2,0.8329565857095137,"{""model__C"": 100.0, ""model__epsilon"": 0.1, ""model__gamma"": 0.01}",M2,SVR_rbf,5
+4,Li4SiO4,0.8911659809596939,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M2,SVR_rbf,5
+5,Li6MnO4,0.8212252010786951,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M2,SVR_rbf,5
+6,Li6ZnO4,0.9148527074702774,"{""model__C"": 10.0, ""model__epsilon"": 0.1, ""model__gamma"": 0.01}",M2,SVR_rbf,5
+7,Li5AlO4,0.8709833442469286,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M2,SVR_rbf,5
+8,Li2MoO3,0.8499363764472865,"{""model__C"": 100.0, ""model__epsilon"": 0.1, ""model__gamma"": 0.01}",M2,SVR_rbf,5
+9,Li8ZrO6,0.8069696080144203,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M2,SVR_rbf,5
+10,Li3BO3,0.8061123298501081,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M2,SVR_rbf,5
+11,LiNO3,0.7356765383084669,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M2,SVR_rbf,5
+12,Li2O2,0.8736922996202254,"{""model__C"": 10.0, ""model__epsilon"": 0.1, ""model__gamma"": 0.01}",M2,SVR_rbf,5
+13,Li2O,0.8172267741300969,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M2,SVR_rbf,5
+14,Li2S,0.8671244050951132,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M2,SVR_rbf,5
+15,Li3N,0.9080832985187722,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M2,SVR_rbf,5
+16,Li3P,0.9080972111484309,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M2,SVR_rbf,5
+17,Li2Se,0.8855338192440625,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M2,SVR_rbf,5
+18,LiF,0.8152438271130713,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M2,SVR_rbf,5
+19,LiC6,0.8949103544484304,"{""model__C"": 10.0, ""model__epsilon"": 0.1, ""model__gamma"": 0.01}",M2,SVR_rbf,5
+20,Li2C2,0.6948351620181457,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M2,SVR_rbf,5
+21,Li2CO3,0.8199643986101327,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M2,SVR_rbf,5
+22,Li2C2O4,0.7396268003892656,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M2,SVR_rbf,5
+23,Li2C4O4,0.7628543208014663,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M2,SVR_rbf,5
+0,Li5FeO4,,{},M3,Dummy,16
+1,Li6CoO4,,{},M3,Dummy,16
+2,Li2NiO2,,{},M3,Dummy,16
+3,Li2CuO2,,{},M3,Dummy,16
+4,Li4SiO4,,{},M3,Dummy,16
+5,Li6MnO4,,{},M3,Dummy,16
+6,Li6ZnO4,,{},M3,Dummy,16
+7,Li5AlO4,,{},M3,Dummy,16
+8,Li2MoO3,,{},M3,Dummy,16
+9,Li8ZrO6,,{},M3,Dummy,16
+10,Li3BO3,,{},M3,Dummy,16
+11,LiNO3,,{},M3,Dummy,16
+12,Li2O2,,{},M3,Dummy,16
+13,Li2O,,{},M3,Dummy,16
+14,Li2S,,{},M3,Dummy,16
+15,Li3N,,{},M3,Dummy,16
+16,Li3P,,{},M3,Dummy,16
+17,Li2Se,,{},M3,Dummy,16
+18,LiF,,{},M3,Dummy,16
+19,LiC6,,{},M3,Dummy,16
+20,Li2C2,,{},M3,Dummy,16
+21,Li2CO3,,{},M3,Dummy,16
+22,Li2C2O4,,{},M3,Dummy,16
+23,Li2C4O4,,{},M3,Dummy,16
+0,Li5FeO4,1.2306284604365065,"{""model__alpha"": 10.0}",M3,Ridge,16
+1,Li6CoO4,1.1328264433217967,"{""model__alpha"": 0.1}",M3,Ridge,16
+2,Li2NiO2,1.143675599087576,"{""model__alpha"": 0.1}",M3,Ridge,16
+3,Li2CuO2,1.2243411242137199,"{""model__alpha"": 1000.0}",M3,Ridge,16
+4,Li4SiO4,1.2185503648813552,"{""model__alpha"": 10.0}",M3,Ridge,16
+5,Li6MnO4,1.0120871162270162,"{""model__alpha"": 0.1}",M3,Ridge,16
+6,Li6ZnO4,0.8831607214824604,"{""model__alpha"": 0.1}",M3,Ridge,16
+7,Li5AlO4,0.936657092367196,"{""model__alpha"": 0.1}",M3,Ridge,16
+8,Li2MoO3,0.9401312351839739,"{""model__alpha"": 0.1}",M3,Ridge,16
+9,Li8ZrO6,0.9689566242522296,"{""model__alpha"": 0.1}",M3,Ridge,16
+10,Li3BO3,0.8236724730830612,"{""model__alpha"": 0.1}",M3,Ridge,16
+11,LiNO3,1.0287747602859159,"{""model__alpha"": 0.1}",M3,Ridge,16
+12,Li2O2,0.8691541913159296,"{""model__alpha"": 0.1}",M3,Ridge,16
+13,Li2O,0.9350943706255215,"{""model__alpha"": 0.1}",M3,Ridge,16
+14,Li2S,0.9038355927823603,"{""model__alpha"": 0.1}",M3,Ridge,16
+15,Li3N,1.0766585920261813,"{""model__alpha"": 0.1}",M3,Ridge,16
+16,Li3P,0.9027325396138245,"{""model__alpha"": 0.1}",M3,Ridge,16
+17,Li2Se,1.2268745497153815,"{""model__alpha"": 0.1}",M3,Ridge,16
+18,LiF,0.9038212352836261,"{""model__alpha"": 0.1}",M3,Ridge,16
+19,LiC6,0.9478741408055479,"{""model__alpha"": 0.1}",M3,Ridge,16
+20,Li2C2,1.1279950098482545,"{""model__alpha"": 0.1}",M3,Ridge,16
+21,Li2CO3,1.1231935903418602,"{""model__alpha"": 0.1}",M3,Ridge,16
+22,Li2C2O4,1.193462242836469,"{""model__alpha"": 0.1}",M3,Ridge,16
+23,Li2C4O4,1.0775002342741127,"{""model__alpha"": 0.1}",M3,Ridge,16
+0,Li5FeO4,1.3308986446807372,"{""model__n_components"": 1}",M3,PLS,16
+1,Li6CoO4,1.2995133397534815,"{""model__n_components"": 1}",M3,PLS,16
+2,Li2NiO2,1.3125555531312838,"{""model__n_components"": 8}",M3,PLS,16
+3,Li2CuO2,1.295308339668693,"{""model__n_components"": 2}",M3,PLS,16
+4,Li4SiO4,1.3232091689393237,"{""model__n_components"": 2}",M3,PLS,16
+5,Li6MnO4,1.2960959521868436,"{""model__n_components"": 3}",M3,PLS,16
+6,Li6ZnO4,1.157307735806257,"{""model__n_components"": 8}",M3,PLS,16
+7,Li5AlO4,1.1196078799197886,"{""model__n_components"": 8}",M3,PLS,16
+8,Li2MoO3,1.1598821686354677,"{""model__n_components"": 8}",M3,PLS,16
+9,Li8ZrO6,1.1819815842673238,"{""model__n_components"": 8}",M3,PLS,16
+10,Li3BO3,1.0057992892952679,"{""model__n_components"": 8}",M3,PLS,16
+11,LiNO3,1.1750796651369977,"{""model__n_components"": 8}",M3,PLS,16
+12,Li2O2,0.9565890505375252,"{""model__n_components"": 8}",M3,PLS,16
+13,Li2O,1.0307250795566891,"{""model__n_components"": 8}",M3,PLS,16
+14,Li2S,1.1651611810831584,"{""model__n_components"": 8}",M3,PLS,16
+15,Li3N,1.1865739591686815,"{""model__n_components"": 5}",M3,PLS,16
+16,Li3P,1.0629759682942843,"{""model__n_components"": 8}",M3,PLS,16
+17,Li2Se,1.2955238422452882,"{""model__n_components"": 8}",M3,PLS,16
+18,LiF,0.886982687371679,"{""model__n_components"": 8}",M3,PLS,16
+19,LiC6,1.022839432810941,"{""model__n_components"": 2}",M3,PLS,16
+20,Li2C2,1.437316798766081,"{""model__n_components"": 8}",M3,PLS,16
+21,Li2CO3,1.4808946972515729,"{""model__n_components"": 4}",M3,PLS,16
+22,Li2C2O4,1.5486493203283553,"{""model__n_components"": 8}",M3,PLS,16
+23,Li2C4O4,1.4556730377162894,"{""model__n_components"": 4}",M3,PLS,16
+0,Li5FeO4,1.211681994169479,"{""model__C"": 0.01, ""model__epsilon"": 0.1}",M3,SVR_linear,16
+1,Li6CoO4,1.1551243950851908,"{""model__C"": 0.01, ""model__epsilon"": 0.1}",M3,SVR_linear,16
+2,Li2NiO2,1.1890666029827481,"{""model__C"": 0.01, ""model__epsilon"": 0.1}",M3,SVR_linear,16
+3,Li2CuO2,1.1973706137090707,"{""model__C"": 0.01, ""model__epsilon"": 0.2}",M3,SVR_linear,16
+4,Li4SiO4,1.1947803797195147,"{""model__C"": 0.1, ""model__epsilon"": 0.01}",M3,SVR_linear,16
+5,Li6MnO4,0.943648710921152,"{""model__C"": 10.0, ""model__epsilon"": 0.2}",M3,SVR_linear,16
+6,Li6ZnO4,0.791944975988835,"{""model__C"": 10.0, ""model__epsilon"": 0.2}",M3,SVR_linear,16
+7,Li5AlO4,0.981999432447593,"{""model__C"": 10.0, ""model__epsilon"": 0.2}",M3,SVR_linear,16
+8,Li2MoO3,0.8759849919490502,"{""model__C"": 10.0, ""model__epsilon"": 0.2}",M3,SVR_linear,16
+9,Li8ZrO6,0.8431121381932052,"{""model__C"": 10.0, ""model__epsilon"": 0.2}",M3,SVR_linear,16
+10,Li3BO3,0.8132504026645424,"{""model__C"": 10.0, ""model__epsilon"": 0.2}",M3,SVR_linear,16
+11,LiNO3,1.1568275286892078,"{""model__C"": 10.0, ""model__epsilon"": 0.2}",M3,SVR_linear,16
+12,Li2O2,0.8112032375810084,"{""model__C"": 10.0, ""model__epsilon"": 0.2}",M3,SVR_linear,16
+13,Li2O,0.84836824290433,"{""model__C"": 10.0, ""model__epsilon"": 0.2}",M3,SVR_linear,16
+14,Li2S,0.9745960691134445,"{""model__C"": 10.0, ""model__epsilon"": 0.2}",M3,SVR_linear,16
+15,Li3N,1.0002362532677544,"{""model__C"": 10.0, ""model__epsilon"": 0.2}",M3,SVR_linear,16
+16,Li3P,0.7371925136729669,"{""model__C"": 10.0, ""model__epsilon"": 0.2}",M3,SVR_linear,16
+17,Li2Se,1.1017867692457617,"{""model__C"": 10.0, ""model__epsilon"": 0.1}",M3,SVR_linear,16
+18,LiF,0.8712123045825116,"{""model__C"": 1.0, ""model__epsilon"": 0.01}",M3,SVR_linear,16
+19,LiC6,1.145832355939819,"{""model__C"": 0.01, ""model__epsilon"": 0.2}",M3,SVR_linear,16
+20,Li2C2,1.1389832632233945,"{""model__C"": 100.0, ""model__epsilon"": 0.2}",M3,SVR_linear,16
+21,Li2CO3,1.025721494053896,"{""model__C"": 10.0, ""model__epsilon"": 0.1}",M3,SVR_linear,16
+22,Li2C2O4,1.3216576766766717,"{""model__C"": 0.01, ""model__epsilon"": 0.2}",M3,SVR_linear,16
+23,Li2C4O4,1.188728902059291,"{""model__C"": 10.0, ""model__epsilon"": 0.2}",M3,SVR_linear,16
+0,Li5FeO4,0.8528821556887035,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M3,SVR_rbf,16
+1,Li6CoO4,0.8593993244857305,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M3,SVR_rbf,16
+2,Li2NiO2,0.9466453207942452,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M3,SVR_rbf,16
+3,Li2CuO2,0.925910212918701,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M3,SVR_rbf,16
+4,Li4SiO4,0.9192653049623584,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M3,SVR_rbf,16
+5,Li6MnO4,0.7879168627322153,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M3,SVR_rbf,16
+6,Li6ZnO4,0.9038470624224996,"{""model__C"": 10.0, ""model__epsilon"": 0.1, ""model__gamma"": ""scale""}",M3,SVR_rbf,16
+7,Li5AlO4,0.9193071071614691,"{""model__C"": 10.0, ""model__epsilon"": 0.1, ""model__gamma"": ""scale""}",M3,SVR_rbf,16
+8,Li2MoO3,0.9692669276010688,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": ""scale""}",M3,SVR_rbf,16
+9,Li8ZrO6,0.9670589938824407,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": ""scale""}",M3,SVR_rbf,16
+10,Li3BO3,0.9249920050919958,"{""model__C"": 10.0, ""model__epsilon"": 0.1, ""model__gamma"": ""scale""}",M3,SVR_rbf,16
+11,LiNO3,0.8898117166688397,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M3,SVR_rbf,16
+12,Li2O2,0.9173566108872304,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": ""scale""}",M3,SVR_rbf,16
+13,Li2O,0.9124024738350531,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": ""scale""}",M3,SVR_rbf,16
+14,Li2S,0.9532166288372604,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": ""scale""}",M3,SVR_rbf,16
+15,Li3N,0.907363997657644,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": ""scale""}",M3,SVR_rbf,16
+16,Li3P,0.9728312587333091,"{""model__C"": 1.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.1}",M3,SVR_rbf,16
+17,Li2Se,1.02721861907035,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": ""scale""}",M3,SVR_rbf,16
+18,LiF,0.8859969379666207,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": ""scale""}",M3,SVR_rbf,16
+19,LiC6,1.010267316928784,"{""model__C"": 1.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.1}",M3,SVR_rbf,16
+20,Li2C2,1.005553405662935,"{""model__C"": 1.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.1}",M3,SVR_rbf,16
+21,Li2CO3,0.9613649822161914,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M3,SVR_rbf,16
+22,Li2C2O4,1.0576269580533306,"{""model__C"": 1.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.1}",M3,SVR_rbf,16
+23,Li2C4O4,1.043998605439548,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": ""scale""}",M3,SVR_rbf,16
+0,Li5FeO4,,{},M4,Dummy,17
+1,Li6CoO4,,{},M4,Dummy,17
+2,Li2NiO2,,{},M4,Dummy,17
+3,Li2CuO2,,{},M4,Dummy,17
+4,Li4SiO4,,{},M4,Dummy,17
+5,Li6MnO4,,{},M4,Dummy,17
+6,Li6ZnO4,,{},M4,Dummy,17
+7,Li5AlO4,,{},M4,Dummy,17
+8,Li2MoO3,,{},M4,Dummy,17
+9,Li8ZrO6,,{},M4,Dummy,17
+10,Li3BO3,,{},M4,Dummy,17
+11,LiNO3,,{},M4,Dummy,17
+12,Li2O2,,{},M4,Dummy,17
+13,Li2O,,{},M4,Dummy,17
+14,Li2S,,{},M4,Dummy,17
+15,Li3N,,{},M4,Dummy,17
+16,Li3P,,{},M4,Dummy,17
+17,Li2Se,,{},M4,Dummy,17
+18,LiF,,{},M4,Dummy,17
+19,LiC6,,{},M4,Dummy,17
+20,Li2C2,,{},M4,Dummy,17
+21,Li2CO3,,{},M4,Dummy,17
+22,Li2C2O4,,{},M4,Dummy,17
+23,Li2C4O4,,{},M4,Dummy,17
+0,Li5FeO4,0.9698125676211535,"{""model__alpha"": 10.0}",M4,Ridge,17
+1,Li6CoO4,0.9017848250381364,"{""model__alpha"": 10.0}",M4,Ridge,17
+2,Li2NiO2,0.9701331112079036,"{""model__alpha"": 10.0}",M4,Ridge,17
+3,Li2CuO2,0.8985640594682627,"{""model__alpha"": 1.0}",M4,Ridge,17
+4,Li4SiO4,0.9355325941849468,"{""model__alpha"": 10.0}",M4,Ridge,17
+5,Li6MnO4,0.7188948382592116,"{""model__alpha"": 0.1}",M4,Ridge,17
+6,Li6ZnO4,1.0172405160638782,"{""model__alpha"": 10.0}",M4,Ridge,17
+7,Li5AlO4,1.0244654977867271,"{""model__alpha"": 10.0}",M4,Ridge,17
+8,Li2MoO3,0.945563722724384,"{""model__alpha"": 1.0}",M4,Ridge,17
+9,Li8ZrO6,0.9679132519206938,"{""model__alpha"": 1.0}",M4,Ridge,17
+10,Li3BO3,0.9490896229900126,"{""model__alpha"": 1.0}",M4,Ridge,17
+11,LiNO3,0.8977518593093203,"{""model__alpha"": 1.0}",M4,Ridge,17
+12,Li2O2,0.8679715285090438,"{""model__alpha"": 1.0}",M4,Ridge,17
+13,Li2O,0.8209029741603965,"{""model__alpha"": 10.0}",M4,Ridge,17
+14,Li2S,0.930418815783485,"{""model__alpha"": 10.0}",M4,Ridge,17
+15,Li3N,0.8466565117647089,"{""model__alpha"": 1.0}",M4,Ridge,17
+16,Li3P,0.8559624847233371,"{""model__alpha"": 1.0}",M4,Ridge,17
+17,Li2Se,0.8999219766952331,"{""model__alpha"": 1.0}",M4,Ridge,17
+18,LiF,0.8542855493610052,"{""model__alpha"": 10.0}",M4,Ridge,17
+19,LiC6,0.7447602019712766,"{""model__alpha"": 10.0}",M4,Ridge,17
+20,Li2C2,1.1000701975795324,"{""model__alpha"": 10.0}",M4,Ridge,17
+21,Li2CO3,1.1144009739091356,"{""model__alpha"": 10.0}",M4,Ridge,17
+22,Li2C2O4,1.098234158046117,"{""model__alpha"": 10.0}",M4,Ridge,17
+23,Li2C4O4,1.1348424704320799,"{""model__alpha"": 10.0}",M4,Ridge,17
+0,Li5FeO4,1.0231132990339158,"{""model__n_components"": 2}",M4,PLS,17
+1,Li6CoO4,0.9300375341845175,"{""model__n_components"": 2}",M4,PLS,17
+2,Li2NiO2,0.9833630917867964,"{""model__n_components"": 2}",M4,PLS,17
+3,Li2CuO2,0.9445907810205905,"{""model__n_components"": 8}",M4,PLS,17
+4,Li4SiO4,1.008109211976763,"{""model__n_components"": 2}",M4,PLS,17
+5,Li6MnO4,0.8291299896094287,"{""model__n_components"": 5}",M4,PLS,17
+6,Li6ZnO4,1.0863775487106395,"{""model__n_components"": 2}",M4,PLS,17
+7,Li5AlO4,1.0864633133302883,"{""model__n_components"": 2}",M4,PLS,17
+8,Li2MoO3,0.9739709129764741,"{""model__n_components"": 8}",M4,PLS,17
+9,Li8ZrO6,1.0081440547559941,"{""model__n_components"": 4}",M4,PLS,17
+10,Li3BO3,0.9863638812913684,"{""model__n_components"": 4}",M4,PLS,17
+11,LiNO3,0.8717530097931656,"{""model__n_components"": 7}",M4,PLS,17
+12,Li2O2,0.9035449183611345,"{""model__n_components"": 6}",M4,PLS,17
+13,Li2O,0.8701749262897824,"{""model__n_components"": 4}",M4,PLS,17
+14,Li2S,1.020363250095621,"{""model__n_components"": 4}",M4,PLS,17
+15,Li3N,0.8715620856001592,"{""model__n_components"": 5}",M4,PLS,17
+16,Li3P,0.8458390136948847,"{""model__n_components"": 4}",M4,PLS,17
+17,Li2Se,0.9330857952852772,"{""model__n_components"": 4}",M4,PLS,17
+18,LiF,0.888880019356354,"{""model__n_components"": 3}",M4,PLS,17
+19,LiC6,0.7062744276789905,"{""model__n_components"": 3}",M4,PLS,17
+20,Li2C2,1.154411610417043,"{""model__n_components"": 3}",M4,PLS,17
+21,Li2CO3,1.1407659064367965,"{""model__n_components"": 3}",M4,PLS,17
+22,Li2C2O4,1.1268721708925824,"{""model__n_components"": 3}",M4,PLS,17
+23,Li2C4O4,1.1737589679984057,"{""model__n_components"": 5}",M4,PLS,17
+0,Li5FeO4,0.9213630919887967,"{""model__C"": 0.1, ""model__epsilon"": 0.2}",M4,SVR_linear,17
+1,Li6CoO4,0.8611134990550425,"{""model__C"": 0.1, ""model__epsilon"": 0.2}",M4,SVR_linear,17
+2,Li2NiO2,1.0057305350487975,"{""model__C"": 0.1, ""model__epsilon"": 0.2}",M4,SVR_linear,17
+3,Li2CuO2,0.9513917150121476,"{""model__C"": 0.1, ""model__epsilon"": 0.1}",M4,SVR_linear,17
+4,Li4SiO4,0.9620342127099832,"{""model__C"": 0.1, ""model__epsilon"": 0.1}",M4,SVR_linear,17
+5,Li6MnO4,0.7156564663081124,"{""model__C"": 10.0, ""model__epsilon"": 0.1}",M4,SVR_linear,17
+6,Li6ZnO4,0.9970801121332749,"{""model__C"": 0.1, ""model__epsilon"": 0.1}",M4,SVR_linear,17
+7,Li5AlO4,1.0232835883124216,"{""model__C"": 1.0, ""model__epsilon"": 0.2}",M4,SVR_linear,17
+8,Li2MoO3,0.9246615491276554,"{""model__C"": 1.0, ""model__epsilon"": 0.2}",M4,SVR_linear,17
+9,Li8ZrO6,0.9709686248899153,"{""model__C"": 0.1, ""model__epsilon"": 0.1}",M4,SVR_linear,17
+10,Li3BO3,0.9602548998950848,"{""model__C"": 0.1, ""model__epsilon"": 0.2}",M4,SVR_linear,17
+11,LiNO3,0.9015812864689996,"{""model__C"": 1.0, ""model__epsilon"": 0.2}",M4,SVR_linear,17
+12,Li2O2,0.8591139681935418,"{""model__C"": 1.0, ""model__epsilon"": 0.1}",M4,SVR_linear,17
+13,Li2O,0.7443315181632348,"{""model__C"": 0.1, ""model__epsilon"": 0.01}",M4,SVR_linear,17
+14,Li2S,0.9350146430083894,"{""model__C"": 0.1, ""model__epsilon"": 0.2}",M4,SVR_linear,17
+15,Li3N,0.784139195358899,"{""model__C"": 0.1, ""model__epsilon"": 0.1}",M4,SVR_linear,17
+16,Li3P,0.8353727301053844,"{""model__C"": 1.0, ""model__epsilon"": 0.2}",M4,SVR_linear,17
+17,Li2Se,0.9438247962512861,"{""model__C"": 1.0, ""model__epsilon"": 0.2}",M4,SVR_linear,17
+18,LiF,0.8448383175419968,"{""model__C"": 0.1, ""model__epsilon"": 0.2}",M4,SVR_linear,17
+19,LiC6,0.7826668330437372,"{""model__C"": 0.1, ""model__epsilon"": 0.2}",M4,SVR_linear,17
+20,Li2C2,1.0635177876282809,"{""model__C"": 0.1, ""model__epsilon"": 0.2}",M4,SVR_linear,17
+21,Li2CO3,1.0934265574148205,"{""model__C"": 0.1, ""model__epsilon"": 0.2}",M4,SVR_linear,17
+22,Li2C2O4,1.0796466470667192,"{""model__C"": 0.1, ""model__epsilon"": 0.2}",M4,SVR_linear,17
+23,Li2C4O4,1.1528983697542823,"{""model__C"": 0.1, ""model__epsilon"": 0.01}",M4,SVR_linear,17
+0,Li5FeO4,0.8881480499919959,"{""model__C"": 1.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M4,SVR_rbf,17
+1,Li6CoO4,0.8487013792548787,"{""model__C"": 1.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M4,SVR_rbf,17
+2,Li2NiO2,0.7947954060828897,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M4,SVR_rbf,17
+3,Li2CuO2,0.763221308318174,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M4,SVR_rbf,17
+4,Li4SiO4,0.6988804268972448,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M4,SVR_rbf,17
+5,Li6MnO4,0.564025854889312,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M4,SVR_rbf,17
+6,Li6ZnO4,0.7618652183021968,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M4,SVR_rbf,17
+7,Li5AlO4,0.6896890001208054,"{""model__C"": 100.0, ""model__epsilon"": 0.1, ""model__gamma"": 0.01}",M4,SVR_rbf,17
+8,Li2MoO3,0.7798821232543857,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M4,SVR_rbf,17
+9,Li8ZrO6,0.8027204047290499,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M4,SVR_rbf,17
+10,Li3BO3,0.7726079023960704,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M4,SVR_rbf,17
+11,LiNO3,0.783966802183334,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M4,SVR_rbf,17
+12,Li2O2,0.7253548025156611,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M4,SVR_rbf,17
+13,Li2O,0.6935880540874547,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M4,SVR_rbf,17
+14,Li2S,0.7379753856209985,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M4,SVR_rbf,17
+15,Li3N,0.7916565336606398,"{""model__C"": 100.0, ""model__epsilon"": 0.1, ""model__gamma"": 0.01}",M4,SVR_rbf,17
+16,Li3P,0.8034836989041028,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M4,SVR_rbf,17
+17,Li2Se,0.8257021407693964,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M4,SVR_rbf,17
+18,LiF,0.7814647704023661,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": ""scale""}",M4,SVR_rbf,17
+19,LiC6,0.7266121483749173,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M4,SVR_rbf,17
+20,Li2C2,0.8784250238511596,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M4,SVR_rbf,17
+21,Li2CO3,0.9069166832865474,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M4,SVR_rbf,17
+22,Li2C2O4,0.9697093630874836,"{""model__C"": 1.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M4,SVR_rbf,17
+23,Li2C4O4,0.9950114153765448,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M4,SVR_rbf,17
+0,Li5FeO4,,{},M5,Dummy,21
+1,Li6CoO4,,{},M5,Dummy,21
+2,Li2NiO2,,{},M5,Dummy,21
+3,Li2CuO2,,{},M5,Dummy,21
+4,Li4SiO4,,{},M5,Dummy,21
+5,Li6MnO4,,{},M5,Dummy,21
+6,Li6ZnO4,,{},M5,Dummy,21
+7,Li5AlO4,,{},M5,Dummy,21
+8,Li2MoO3,,{},M5,Dummy,21
+9,Li8ZrO6,,{},M5,Dummy,21
+10,Li3BO3,,{},M5,Dummy,21
+11,LiNO3,,{},M5,Dummy,21
+12,Li2O2,,{},M5,Dummy,21
+13,Li2O,,{},M5,Dummy,21
+14,Li2S,,{},M5,Dummy,21
+15,Li3N,,{},M5,Dummy,21
+16,Li3P,,{},M5,Dummy,21
+17,Li2Se,,{},M5,Dummy,21
+18,LiF,,{},M5,Dummy,21
+19,LiC6,,{},M5,Dummy,21
+20,Li2C2,,{},M5,Dummy,21
+21,Li2CO3,,{},M5,Dummy,21
+22,Li2C2O4,,{},M5,Dummy,21
+23,Li2C4O4,,{},M5,Dummy,21
+0,Li5FeO4,0.9004302013186859,"{""model__alpha"": 1.0}",M5,Ridge,21
+1,Li6CoO4,0.6323588886243846,"{""model__alpha"": 0.1}",M5,Ridge,21
+2,Li2NiO2,0.8432770833026455,"{""model__alpha"": 1.0}",M5,Ridge,21
+3,Li2CuO2,0.6392748839575904,"{""model__alpha"": 1.0}",M5,Ridge,21
+4,Li4SiO4,0.7095989837983154,"{""model__alpha"": 1.0}",M5,Ridge,21
+5,Li6MnO4,0.5761535371265569,"{""model__alpha"": 1.0}",M5,Ridge,21
+6,Li6ZnO4,0.7960695757346048,"{""model__alpha"": 1.0}",M5,Ridge,21
+7,Li5AlO4,0.7981038172777055,"{""model__alpha"": 1.0}",M5,Ridge,21
+8,Li2MoO3,0.8927506560218971,"{""model__alpha"": 1.0}",M5,Ridge,21
+9,Li8ZrO6,0.7549247704314043,"{""model__alpha"": 1.0}",M5,Ridge,21
+10,Li3BO3,0.761948640056956,"{""model__alpha"": 1.0}",M5,Ridge,21
+11,LiNO3,0.7666257250312455,"{""model__alpha"": 1.0}",M5,Ridge,21
+12,Li2O2,0.7213448857484177,"{""model__alpha"": 1.0}",M5,Ridge,21
+13,Li2O,0.660640324816242,"{""model__alpha"": 1.0}",M5,Ridge,21
+14,Li2S,0.8241742851333423,"{""model__alpha"": 1.0}",M5,Ridge,21
+15,Li3N,0.7906154796985281,"{""model__alpha"": 0.1}",M5,Ridge,21
+16,Li3P,0.7099440956915531,"{""model__alpha"": 1.0}",M5,Ridge,21
+17,Li2Se,0.7914754696210624,"{""model__alpha"": 0.1}",M5,Ridge,21
+18,LiF,0.7564938225831516,"{""model__alpha"": 1.0}",M5,Ridge,21
+19,LiC6,0.7548374286727839,"{""model__alpha"": 1.0}",M5,Ridge,21
+20,Li2C2,0.9146789591775487,"{""model__alpha"": 0.1}",M5,Ridge,21
+21,Li2CO3,0.916831401102662,"{""model__alpha"": 1.0}",M5,Ridge,21
+22,Li2C2O4,1.0325843616882764,"{""model__alpha"": 1.0}",M5,Ridge,21
+23,Li2C4O4,0.859284520501207,"{""model__alpha"": 0.1}",M5,Ridge,21
+0,Li5FeO4,0.9324855242051081,"{""model__n_components"": 8}",M5,PLS,21
+1,Li6CoO4,0.8645381282089794,"{""model__n_components"": 8}",M5,PLS,21
+2,Li2NiO2,0.8731330638784154,"{""model__n_components"": 7}",M5,PLS,21
+3,Li2CuO2,0.5967188768195127,"{""model__n_components"": 8}",M5,PLS,21
+4,Li4SiO4,0.6385879376437822,"{""model__n_components"": 8}",M5,PLS,21
+5,Li6MnO4,0.5788141647690511,"{""model__n_components"": 8}",M5,PLS,21
+6,Li6ZnO4,0.7624081901216841,"{""model__n_components"": 7}",M5,PLS,21
+7,Li5AlO4,0.7946764269229303,"{""model__n_components"": 8}",M5,PLS,21
+8,Li2MoO3,0.8671899091762777,"{""model__n_components"": 6}",M5,PLS,21
+9,Li8ZrO6,0.8001477475577461,"{""model__n_components"": 5}",M5,PLS,21
+10,Li3BO3,0.7900597127201838,"{""model__n_components"": 6}",M5,PLS,21
+11,LiNO3,0.7885735765406701,"{""model__n_components"": 8}",M5,PLS,21
+12,Li2O2,0.7598995818774723,"{""model__n_components"": 7}",M5,PLS,21
+13,Li2O,0.7168902197206706,"{""model__n_components"": 7}",M5,PLS,21
+14,Li2S,0.8835268856273493,"{""model__n_components"": 7}",M5,PLS,21
+15,Li3N,0.8199320584283196,"{""model__n_components"": 8}",M5,PLS,21
+16,Li3P,0.7437958354990015,"{""model__n_components"": 8}",M5,PLS,21
+17,Li2Se,0.8179251062980478,"{""model__n_components"": 4}",M5,PLS,21
+18,LiF,0.7645333723001023,"{""model__n_components"": 3}",M5,PLS,21
+19,LiC6,0.7284174028658652,"{""model__n_components"": 3}",M5,PLS,21
+20,Li2C2,0.943755276476033,"{""model__n_components"": 5}",M5,PLS,21
+21,Li2CO3,0.9381590342530302,"{""model__n_components"": 5}",M5,PLS,21
+22,Li2C2O4,0.9637066843532776,"{""model__n_components"": 5}",M5,PLS,21
+23,Li2C4O4,0.9512424638587849,"{""model__n_components"": 5}",M5,PLS,21
+0,Li5FeO4,0.8227770057934428,"{""model__C"": 1.0, ""model__epsilon"": 0.2}",M5,SVR_linear,21
+1,Li6CoO4,0.6070203573983897,"{""model__C"": 10.0, ""model__epsilon"": 0.2}",M5,SVR_linear,21
+2,Li2NiO2,0.7181398531192026,"{""model__C"": 10.0, ""model__epsilon"": 0.01}",M5,SVR_linear,21
+3,Li2CuO2,0.5870263703734179,"{""model__C"": 1.0, ""model__epsilon"": 0.2}",M5,SVR_linear,21
+4,Li4SiO4,0.7074028973450426,"{""model__C"": 1.0, ""model__epsilon"": 0.2}",M5,SVR_linear,21
+5,Li6MnO4,0.335043652394887,"{""model__C"": 10.0, ""model__epsilon"": 0.01}",M5,SVR_linear,21
+6,Li6ZnO4,0.8993074251080543,"{""model__C"": 1.0, ""model__epsilon"": 0.1}",M5,SVR_linear,21
+7,Li5AlO4,0.7786807471545536,"{""model__C"": 1.0, ""model__epsilon"": 0.01}",M5,SVR_linear,21
+8,Li2MoO3,0.9786571056386272,"{""model__C"": 0.1, ""model__epsilon"": 0.01}",M5,SVR_linear,21
+9,Li8ZrO6,0.7671087454914206,"{""model__C"": 1.0, ""model__epsilon"": 0.1}",M5,SVR_linear,21
+10,Li3BO3,0.8172257182554962,"{""model__C"": 1.0, ""model__epsilon"": 0.2}",M5,SVR_linear,21
+11,LiNO3,0.7733268550314323,"{""model__C"": 1.0, ""model__epsilon"": 0.1}",M5,SVR_linear,21
+12,Li2O2,0.7780390065782916,"{""model__C"": 1.0, ""model__epsilon"": 0.2}",M5,SVR_linear,21
+13,Li2O,0.6651479560203946,"{""model__C"": 1.0, ""model__epsilon"": 0.1}",M5,SVR_linear,21
+14,Li2S,0.8670304886595528,"{""model__C"": 1.0, ""model__epsilon"": 0.01}",M5,SVR_linear,21
+15,Li3N,0.7171639904372545,"{""model__C"": 1.0, ""model__epsilon"": 0.1}",M5,SVR_linear,21
+16,Li3P,0.5956078404065355,"{""model__C"": 1.0, ""model__epsilon"": 0.1}",M5,SVR_linear,21
+17,Li2Se,0.709899078038413,"{""model__C"": 1.0, ""model__epsilon"": 0.01}",M5,SVR_linear,21
+18,LiF,0.6772146030816345,"{""model__C"": 1.0, ""model__epsilon"": 0.01}",M5,SVR_linear,21
+19,LiC6,0.7098066160765127,"{""model__C"": 1.0, ""model__epsilon"": 0.2}",M5,SVR_linear,21
+20,Li2C2,0.8850501759366519,"{""model__C"": 1.0, ""model__epsilon"": 0.01}",M5,SVR_linear,21
+21,Li2CO3,0.8380405113192133,"{""model__C"": 1.0, ""model__epsilon"": 0.2}",M5,SVR_linear,21
+22,Li2C2O4,0.901407531136503,"{""model__C"": 10.0, ""model__epsilon"": 0.1}",M5,SVR_linear,21
+23,Li2C4O4,0.8975747618826018,"{""model__C"": 10.0, ""model__epsilon"": 0.1}",M5,SVR_linear,21
+0,Li5FeO4,0.8784285503605934,"{""model__C"": 100.0, ""model__epsilon"": 0.1, ""model__gamma"": 0.01}",M5,SVR_rbf,21
+1,Li6CoO4,0.7827619004887196,"{""model__C"": 100.0, ""model__epsilon"": 0.1, ""model__gamma"": 0.01}",M5,SVR_rbf,21
+2,Li2NiO2,0.7597892793131589,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M5,SVR_rbf,21
+3,Li2CuO2,0.7283657242781246,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M5,SVR_rbf,21
+4,Li4SiO4,0.6546741736403113,"{""model__C"": 100.0, ""model__epsilon"": 0.1, ""model__gamma"": 0.01}",M5,SVR_rbf,21
+5,Li6MnO4,0.6057210185141746,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M5,SVR_rbf,21
+6,Li6ZnO4,0.7876786310989997,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M5,SVR_rbf,21
+7,Li5AlO4,0.7694230679952151,"{""model__C"": 100.0, ""model__epsilon"": 0.1, ""model__gamma"": 0.01}",M5,SVR_rbf,21
+8,Li2MoO3,0.8140467476955839,"{""model__C"": 100.0, ""model__epsilon"": 0.1, ""model__gamma"": 0.01}",M5,SVR_rbf,21
+9,Li8ZrO6,0.8555114527946955,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M5,SVR_rbf,21
+10,Li3BO3,0.8106125305992837,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M5,SVR_rbf,21
+11,LiNO3,0.8541541445791936,"{""model__C"": 10.0, ""model__epsilon"": 0.1, ""model__gamma"": 0.01}",M5,SVR_rbf,21
+12,Li2O2,0.7768334103990172,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M5,SVR_rbf,21
+13,Li2O,0.7849872372970983,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M5,SVR_rbf,21
+14,Li2S,0.8331781332728347,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M5,SVR_rbf,21
+15,Li3N,0.9062928020634997,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M5,SVR_rbf,21
+16,Li3P,0.7847450873528589,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M5,SVR_rbf,21
+17,Li2Se,0.8292523812038988,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M5,SVR_rbf,21
+18,LiF,0.7156511885647948,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M5,SVR_rbf,21
+19,LiC6,0.758752575521795,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M5,SVR_rbf,21
+20,Li2C2,0.7247540575004778,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M5,SVR_rbf,21
+21,Li2CO3,0.7595940466819829,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M5,SVR_rbf,21
+22,Li2C2O4,0.9809614297158508,"{""model__C"": 100.0, ""model__epsilon"": 0.1, ""model__gamma"": 0.01}",M5,SVR_rbf,21
+23,Li2C4O4,0.8750579579029992,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M5,SVR_rbf,21
+0,Li5FeO4,,{},M6,Dummy,23
+1,Li6CoO4,,{},M6,Dummy,23
+2,Li2NiO2,,{},M6,Dummy,23
+3,Li2CuO2,,{},M6,Dummy,23
+4,Li4SiO4,,{},M6,Dummy,23
+5,Li6MnO4,,{},M6,Dummy,23
+6,Li6ZnO4,,{},M6,Dummy,23
+7,Li5AlO4,,{},M6,Dummy,23
+8,Li2MoO3,,{},M6,Dummy,23
+9,Li8ZrO6,,{},M6,Dummy,23
+10,Li3BO3,,{},M6,Dummy,23
+11,LiNO3,,{},M6,Dummy,23
+12,Li2O2,,{},M6,Dummy,23
+13,Li2O,,{},M6,Dummy,23
+14,Li2S,,{},M6,Dummy,23
+15,Li3N,,{},M6,Dummy,23
+16,Li3P,,{},M6,Dummy,23
+17,Li2Se,,{},M6,Dummy,23
+18,LiF,,{},M6,Dummy,23
+19,LiC6,,{},M6,Dummy,23
+20,Li2C2,,{},M6,Dummy,23
+21,Li2CO3,,{},M6,Dummy,23
+22,Li2C2O4,,{},M6,Dummy,23
+23,Li2C4O4,,{},M6,Dummy,23
+0,Li5FeO4,1.1433945985646818,"{""model__alpha"": 10.0}",M6,Ridge,23
+1,Li6CoO4,1.1899876222616952,"{""model__alpha"": 1000.0}",M6,Ridge,23
+2,Li2NiO2,1.2271224229997304,"{""model__alpha"": 1000.0}",M6,Ridge,23
+3,Li2CuO2,1.3073285789341533,"{""model__alpha"": 1000.0}",M6,Ridge,23
+4,Li4SiO4,1.0686431769582034,"{""model__alpha"": 10.0}",M6,Ridge,23
+5,Li6MnO4,0.8563341904417132,"{""model__alpha"": 10.0}",M6,Ridge,23
+6,Li6ZnO4,1.0163561922014952,"{""model__alpha"": 10.0}",M6,Ridge,23
+7,Li5AlO4,1.0922860281473943,"{""model__alpha"": 10.0}",M6,Ridge,23
+8,Li2MoO3,1.1232502048734083,"{""model__alpha"": 10.0}",M6,Ridge,23
+9,Li8ZrO6,1.0641109574861685,"{""model__alpha"": 10.0}",M6,Ridge,23
+10,Li3BO3,0.9466995899453245,"{""model__alpha"": 10.0}",M6,Ridge,23
+11,LiNO3,0.9133372254786034,"{""model__alpha"": 10.0}",M6,Ridge,23
+12,Li2O2,0.9079373411677535,"{""model__alpha"": 10.0}",M6,Ridge,23
+13,Li2O,0.8629334626254239,"{""model__alpha"": 10.0}",M6,Ridge,23
+14,Li2S,0.9193002895306721,"{""model__alpha"": 10.0}",M6,Ridge,23
+15,Li3N,0.9447473458914365,"{""model__alpha"": 10.0}",M6,Ridge,23
+16,Li3P,0.8765182593737402,"{""model__alpha"": 10.0}",M6,Ridge,23
+17,Li2Se,0.899194915863163,"{""model__alpha"": 10.0}",M6,Ridge,23
+18,LiF,0.8266333752991446,"{""model__alpha"": 10.0}",M6,Ridge,23
+19,LiC6,0.8201716533367497,"{""model__alpha"": 10.0}",M6,Ridge,23
+20,Li2C2,0.9960367158201506,"{""model__alpha"": 10.0}",M6,Ridge,23
+21,Li2CO3,1.011437484270336,"{""model__alpha"": 10.0}",M6,Ridge,23
+22,Li2C2O4,1.0162100822930593,"{""model__alpha"": 10.0}",M6,Ridge,23
+23,Li2C4O4,1.0450516757856119,"{""model__alpha"": 10.0}",M6,Ridge,23
+0,Li5FeO4,1.0062949611081706,"{""model__n_components"": 5}",M6,PLS,23
+1,Li6CoO4,1.2499412182578606,"{""model__n_components"": 5}",M6,PLS,23
+2,Li2NiO2,1.0214774281258143,"{""model__n_components"": 5}",M6,PLS,23
+3,Li2CuO2,2.5427927342517513,"{""model__n_components"": 1}",M6,PLS,23
+4,Li4SiO4,0.8753899824821497,"{""model__n_components"": 5}",M6,PLS,23
+5,Li6MnO4,0.8210011688225478,"{""model__n_components"": 4}",M6,PLS,23
+6,Li6ZnO4,1.122453232292855,"{""model__n_components"": 4}",M6,PLS,23
+7,Li5AlO4,1.1383755974018617,"{""model__n_components"": 5}",M6,PLS,23
+8,Li2MoO3,1.1750265709378576,"{""model__n_components"": 5}",M6,PLS,23
+9,Li8ZrO6,1.0794414579299318,"{""model__n_components"": 4}",M6,PLS,23
+10,Li3BO3,0.964156665424991,"{""model__n_components"": 4}",M6,PLS,23
+11,LiNO3,0.962527109488243,"{""model__n_components"": 4}",M6,PLS,23
+12,Li2O2,0.9873432714483987,"{""model__n_components"": 4}",M6,PLS,23
+13,Li2O,1.0064806077560204,"{""model__n_components"": 4}",M6,PLS,23
+14,Li2S,1.0139980394902282,"{""model__n_components"": 4}",M6,PLS,23
+15,Li3N,1.058157628775165,"{""model__n_components"": 4}",M6,PLS,23
+16,Li3P,1.064307406527654,"{""model__n_components"": 3}",M6,PLS,23
+17,Li2Se,1.0990739870009807,"{""model__n_components"": 3}",M6,PLS,23
+18,LiF,0.8295228155247425,"{""model__n_components"": 3}",M6,PLS,23
+19,LiC6,0.7525506995534091,"{""model__n_components"": 3}",M6,PLS,23
+20,Li2C2,1.0622523460442834,"{""model__n_components"": 4}",M6,PLS,23
+21,Li2CO3,1.138653169763147,"{""model__n_components"": 3}",M6,PLS,23
+22,Li2C2O4,1.105304147894921,"{""model__n_components"": 3}",M6,PLS,23
+23,Li2C4O4,1.0196523387782583,"{""model__n_components"": 4}",M6,PLS,23
+0,Li5FeO4,1.0356649737508135,"{""model__C"": 0.1, ""model__epsilon"": 0.2}",M6,SVR_linear,23
+1,Li6CoO4,0.9433197698551318,"{""model__C"": 0.1, ""model__epsilon"": 0.1}",M6,SVR_linear,23
+2,Li2NiO2,1.4096242393378706,"{""model__C"": 0.01, ""model__epsilon"": 0.2}",M6,SVR_linear,23
+3,Li2CuO2,1.7338160177869752,"{""model__C"": 0.01, ""model__epsilon"": 0.2}",M6,SVR_linear,23
+4,Li4SiO4,1.011036220543987,"{""model__C"": 0.1, ""model__epsilon"": 0.2}",M6,SVR_linear,23
+5,Li6MnO4,0.6984174229851249,"{""model__C"": 1.0, ""model__epsilon"": 0.2}",M6,SVR_linear,23
+6,Li6ZnO4,1.1504144651009318,"{""model__C"": 0.1, ""model__epsilon"": 0.2}",M6,SVR_linear,23
+7,Li5AlO4,1.1892917665056237,"{""model__C"": 0.1, ""model__epsilon"": 0.2}",M6,SVR_linear,23
+8,Li2MoO3,1.1601481678461512,"{""model__C"": 0.1, ""model__epsilon"": 0.2}",M6,SVR_linear,23
+9,Li8ZrO6,1.048786673326767,"{""model__C"": 0.1, ""model__epsilon"": 0.2}",M6,SVR_linear,23
+10,Li3BO3,1.0924276442239709,"{""model__C"": 0.1, ""model__epsilon"": 0.2}",M6,SVR_linear,23
+11,LiNO3,1.205678402288835,"{""model__C"": 0.1, ""model__epsilon"": 0.2}",M6,SVR_linear,23
+12,Li2O2,0.9868477063601704,"{""model__C"": 0.1, ""model__epsilon"": 0.2}",M6,SVR_linear,23
+13,Li2O,0.8215715279625876,"{""model__C"": 0.1, ""model__epsilon"": 0.2}",M6,SVR_linear,23
+14,Li2S,0.9146311674792189,"{""model__C"": 0.1, ""model__epsilon"": 0.2}",M6,SVR_linear,23
+15,Li3N,0.9565435066611554,"{""model__C"": 0.1, ""model__epsilon"": 0.2}",M6,SVR_linear,23
+16,Li3P,0.9660334913174063,"{""model__C"": 0.1, ""model__epsilon"": 0.2}",M6,SVR_linear,23
+17,Li2Se,1.0253927293173495,"{""model__C"": 0.1, ""model__epsilon"": 0.2}",M6,SVR_linear,23
+18,LiF,1.2138793962790138,"{""model__C"": 0.01, ""model__epsilon"": 0.2}",M6,SVR_linear,23
+19,LiC6,0.8528635092771937,"{""model__C"": 0.1, ""model__epsilon"": 0.2}",M6,SVR_linear,23
+20,Li2C2,1.0585309394684035,"{""model__C"": 0.1, ""model__epsilon"": 0.2}",M6,SVR_linear,23
+21,Li2CO3,1.2431301519253808,"{""model__C"": 0.1, ""model__epsilon"": 0.2}",M6,SVR_linear,23
+22,Li2C2O4,1.2357262468612127,"{""model__C"": 0.1, ""model__epsilon"": 0.2}",M6,SVR_linear,23
+23,Li2C4O4,1.1081371749845559,"{""model__C"": 0.1, ""model__epsilon"": 0.2}",M6,SVR_linear,23
+0,Li5FeO4,1.0583367702058386,"{""model__C"": 1.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M6,SVR_rbf,23
+1,Li6CoO4,0.9995446335876592,"{""model__C"": 1.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M6,SVR_rbf,23
+2,Li2NiO2,1.0293797120458268,"{""model__C"": 10.0, ""model__epsilon"": 0.1, ""model__gamma"": ""scale""}",M6,SVR_rbf,23
+3,Li2CuO2,1.0126808346552405,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": ""scale""}",M6,SVR_rbf,23
+4,Li4SiO4,1.0023377192304306,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M6,SVR_rbf,23
+5,Li6MnO4,0.9120930440320535,"{""model__C"": 10.0, ""model__epsilon"": 0.1, ""model__gamma"": ""scale""}",M6,SVR_rbf,23
+6,Li6ZnO4,1.0008638182588592,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M6,SVR_rbf,23
+7,Li5AlO4,1.0449027929711423,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M6,SVR_rbf,23
+8,Li2MoO3,1.0574723591148578,"{""model__C"": 1.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M6,SVR_rbf,23
+9,Li8ZrO6,1.110740159762279,"{""model__C"": 1.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M6,SVR_rbf,23
+10,Li3BO3,1.0836766705481917,"{""model__C"": 10.0, ""model__epsilon"": 0.1, ""model__gamma"": ""scale""}",M6,SVR_rbf,23
+11,LiNO3,1.0342878231698402,"{""model__C"": 1.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M6,SVR_rbf,23
+12,Li2O2,1.0698805464320684,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": ""scale""}",M6,SVR_rbf,23
+13,Li2O,1.0369428878735278,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": ""scale""}",M6,SVR_rbf,23
+14,Li2S,1.081587816258896,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M6,SVR_rbf,23
+15,Li3N,1.049923759507772,"{""model__C"": 1.0, ""model__epsilon"": 0.1, ""model__gamma"": 0.1}",M6,SVR_rbf,23
+16,Li3P,1.009535209809899,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M6,SVR_rbf,23
+17,Li2Se,1.0380231035457046,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M6,SVR_rbf,23
+18,LiF,0.97215847219933,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": ""scale""}",M6,SVR_rbf,23
+19,LiC6,0.8281467378544789,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M6,SVR_rbf,23
+20,Li2C2,0.9656487458174079,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M6,SVR_rbf,23
+21,Li2CO3,1.0670956173127542,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M6,SVR_rbf,23
+22,Li2C2O4,1.0844301315527871,"{""model__C"": 1.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M6,SVR_rbf,23
+23,Li2C4O4,1.1383013180190762,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M6,SVR_rbf,23
+0,Li5FeO4,1.2725061622609375,"{""model__alpha"": 1000.0}",M7,Ridge,2
+1,Li6CoO4,1.2122238196618533,"{""model__alpha"": 1000.0}",M7,Ridge,2
+2,Li2NiO2,1.245882599632067,"{""model__alpha"": 1000.0}",M7,Ridge,2
+3,Li2CuO2,1.3311757406751414,"{""model__alpha"": 1000.0}",M7,Ridge,2
+4,Li4SiO4,1.2717937735405747,"{""model__alpha"": 1000.0}",M7,Ridge,2
+5,Li6MnO4,1.2047852101513916,"{""model__alpha"": 1000.0}",M7,Ridge,2
+6,Li6ZnO4,1.3029140610377206,"{""model__alpha"": 1000.0}",M7,Ridge,2
+7,Li5AlO4,1.2628489996781924,"{""model__alpha"": 1000.0}",M7,Ridge,2
+8,Li2MoO3,1.2677692940458887,"{""model__alpha"": 1000.0}",M7,Ridge,2
+9,Li8ZrO6,1.2884891523733522,"{""model__alpha"": 1000.0}",M7,Ridge,2
+10,Li3BO3,1.2695710067202615,"{""model__alpha"": 1000.0}",M7,Ridge,2
+11,LiNO3,1.2175515588177817,"{""model__alpha"": 1000.0}",M7,Ridge,2
+12,Li2O2,1.2923312189991398,"{""model__alpha"": 1000.0}",M7,Ridge,2
+13,Li2O,1.3059407816084634,"{""model__alpha"": 1000.0}",M7,Ridge,2
+14,Li2S,1.2966831566001193,"{""model__alpha"": 1000.0}",M7,Ridge,2
+15,Li3N,1.2081994413035972,"{""model__alpha"": 1000.0}",M7,Ridge,2
+16,Li3P,1.2359413945784332,"{""model__alpha"": 1000.0}",M7,Ridge,2
+17,Li2Se,1.2976170137602943,"{""model__alpha"": 1000.0}",M7,Ridge,2
+18,LiF,1.2096790877039714,"{""model__alpha"": 1000.0}",M7,Ridge,2
+19,LiC6,1.2531118064954523,"{""model__alpha"": 1000.0}",M7,Ridge,2
+20,Li2C2,1.327496274389637,"{""model__alpha"": 1000.0}",M7,Ridge,2
+21,Li2CO3,1.3031280604115065,"{""model__alpha"": 1000.0}",M7,Ridge,2
+22,Li2C2O4,1.276447657762473,"{""model__alpha"": 1000.0}",M7,Ridge,2
+23,Li2C4O4,1.3288787354948046,"{""model__alpha"": 100.0}",M7,Ridge,2
+0,Li5FeO4,2.7976634780591576,"{""model__n_components"": 1}",M7,PLS,2
+1,Li6CoO4,2.8843011062743287,"{""model__n_components"": 1}",M7,PLS,2
+2,Li2NiO2,2.622773392848324,"{""model__n_components"": 1}",M7,PLS,2
+3,Li2CuO2,6.754021097694654,"{""model__n_components"": 1}",M7,PLS,2
+4,Li4SiO4,2.735966497647584,"{""model__n_components"": 1}",M7,PLS,2
+5,Li6MnO4,2.122194718472903,"{""model__n_components"": 2}",M7,PLS,2
+6,Li6ZnO4,2.8087469346291507,"{""model__n_components"": 1}",M7,PLS,2
+7,Li5AlO4,2.7685686613300735,"{""model__n_components"": 1}",M7,PLS,2
+8,Li2MoO3,2.65407474277555,"{""model__n_components"": 1}",M7,PLS,2
+9,Li8ZrO6,2.599635859464228,"{""model__n_components"": 1}",M7,PLS,2
+10,Li3BO3,2.528233889513976,"{""model__n_components"": 1}",M7,PLS,2
+11,LiNO3,2.2651483934976815,"{""model__n_components"": 1}",M7,PLS,2
+12,Li2O2,2.501504549641785,"{""model__n_components"": 1}",M7,PLS,2
+13,Li2O,2.4739547844379475,"{""model__n_components"": 1}",M7,PLS,2
+14,Li2S,2.4954168343707828,"{""model__n_components"": 1}",M7,PLS,2
+15,Li3N,2.7503877283039566,"{""model__n_components"": 2}",M7,PLS,2
+16,Li3P,2.708590868410938,"{""model__n_components"": 1}",M7,PLS,2
+17,Li2Se,2.7202571262287543,"{""model__n_components"": 1}",M7,PLS,2
+18,LiF,2.387499353709947,"{""model__n_components"": 1}",M7,PLS,2
+19,LiC6,2.9625892743964863,"{""model__n_components"": 2}",M7,PLS,2
+20,Li2C2,2.1731208219088964,"{""model__n_components"": 2}",M7,PLS,2
+21,Li2CO3,2.491177370524028,"{""model__n_components"": 1}",M7,PLS,2
+22,Li2C2O4,2.197321089638014,"{""model__n_components"": 1}",M7,PLS,2
+23,Li2C4O4,1.3485353752653313,"{""model__n_components"": 1}",M7,PLS,2
+0,Li5FeO4,0.9865730067429557,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M7,SVR_rbf,2
+1,Li6CoO4,0.9311275920631672,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M7,SVR_rbf,2
+2,Li2NiO2,1.011008175335694,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M7,SVR_rbf,2
+3,Li2CuO2,1.0514929257474372,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.1}",M7,SVR_rbf,2
+4,Li4SiO4,1.036215562128652,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M7,SVR_rbf,2
+5,Li6MnO4,0.980288703899127,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M7,SVR_rbf,2
+6,Li6ZnO4,1.0416780389300766,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M7,SVR_rbf,2
+7,Li5AlO4,1.050777436086828,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M7,SVR_rbf,2
+8,Li2MoO3,0.9502977968405275,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M7,SVR_rbf,2
+9,Li8ZrO6,1.005097342725859,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M7,SVR_rbf,2
+10,Li3BO3,1.0444253574872193,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M7,SVR_rbf,2
+11,LiNO3,0.9033656428506452,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M7,SVR_rbf,2
+12,Li2O2,0.9826598317878098,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M7,SVR_rbf,2
+13,Li2O,0.9764028881757298,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M7,SVR_rbf,2
+14,Li2S,0.96666477188459,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M7,SVR_rbf,2
+15,Li3N,1.0277593861291623,"{""model__C"": 10.0, ""model__epsilon"": 0.1, ""model__gamma"": 0.01}",M7,SVR_rbf,2
+16,Li3P,1.0657907231543227,"{""model__C"": 10.0, ""model__epsilon"": 0.1, ""model__gamma"": 0.01}",M7,SVR_rbf,2
+17,Li2Se,1.0686627021661745,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M7,SVR_rbf,2
+18,LiF,1.0383235296185622,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M7,SVR_rbf,2
+19,LiC6,0.7049215287929046,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M7,SVR_rbf,2
+20,Li2C2,0.719686308478937,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.1}",M7,SVR_rbf,2
+21,Li2CO3,0.9927191445165748,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M7,SVR_rbf,2
+22,Li2C2O4,0.964370230484484,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M7,SVR_rbf,2
+23,Li2C4O4,1.0478894952304132,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M7,SVR_rbf,2
+0,Li5FeO4,1.2589500336139876,"{""model__alpha"": 1000.0}",M8,Ridge,18
+1,Li6CoO4,1.1984757866766071,"{""model__alpha"": 1000.0}",M8,Ridge,18
+2,Li2NiO2,1.2348494347050365,"{""model__alpha"": 1000.0}",M8,Ridge,18
+3,Li2CuO2,1.3171666315586588,"{""model__alpha"": 1000.0}",M8,Ridge,18
+4,Li4SiO4,1.259351369795532,"{""model__alpha"": 1000.0}",M8,Ridge,18
+5,Li6MnO4,1.196761940645367,"{""model__alpha"": 1000.0}",M8,Ridge,18
+6,Li6ZnO4,0.9437326937029755,"{""model__alpha"": 0.1}",M8,Ridge,18
+7,Li5AlO4,1.2543697307968829,"{""model__alpha"": 1000.0}",M8,Ridge,18
+8,Li2MoO3,1.266899251356166,"{""model__alpha"": 1000.0}",M8,Ridge,18
+9,Li8ZrO6,1.2268944787389526,"{""model__alpha"": 1.0}",M8,Ridge,18
+10,Li3BO3,1.1635954998739517,"{""model__alpha"": 1.0}",M8,Ridge,18
+11,LiNO3,1.1569709329911375,"{""model__alpha"": 1.0}",M8,Ridge,18
+12,Li2O2,1.0125612709299994,"{""model__alpha"": 1.0}",M8,Ridge,18
+13,Li2O,0.8777107321706602,"{""model__alpha"": 1.0}",M8,Ridge,18
+14,Li2S,1.0391675001348983,"{""model__alpha"": 1.0}",M8,Ridge,18
+15,Li3N,1.1999808067375983,"{""model__alpha"": 1000.0}",M8,Ridge,18
+16,Li3P,1.120882743500011,"{""model__alpha"": 1.0}",M8,Ridge,18
+17,Li2Se,1.2240588338596496,"{""model__alpha"": 1.0}",M8,Ridge,18
+18,LiF,0.8057756464654219,"{""model__alpha"": 1.0}",M8,Ridge,18
+19,LiC6,0.9193249956382967,"{""model__alpha"": 1.0}",M8,Ridge,18
+20,Li2C2,1.3281540809452492,"{""model__alpha"": 1000.0}",M8,Ridge,18
+21,Li2CO3,1.2027560540480173,"{""model__alpha"": 1.0}",M8,Ridge,18
+22,Li2C2O4,1.2612762811875455,"{""model__alpha"": 1.0}",M8,Ridge,18
+23,Li2C4O4,1.237421255157,"{""model__alpha"": 1.0}",M8,Ridge,18
+0,Li5FeO4,1.2948355362267647,"{""model__n_components"": 8}",M8,PLS,18
+1,Li6CoO4,1.308941753438482,"{""model__n_components"": 8}",M8,PLS,18
+2,Li2NiO2,1.5422734551956514,"{""model__n_components"": 8}",M8,PLS,18
+3,Li2CuO2,3.085178069374098,"{""model__n_components"": 1}",M8,PLS,18
+4,Li4SiO4,1.5902377155692207,"{""model__n_components"": 7}",M8,PLS,18
+5,Li6MnO4,1.3338995936870497,"{""model__n_components"": 8}",M8,PLS,18
+6,Li6ZnO4,1.3359095941830994,"{""model__n_components"": 7}",M8,PLS,18
+7,Li5AlO4,1.3366585276787353,"{""model__n_components"": 7}",M8,PLS,18
+8,Li2MoO3,1.269657613442628,"{""model__n_components"": 7}",M8,PLS,18
+9,Li8ZrO6,1.3079782073960549,"{""model__n_components"": 7}",M8,PLS,18
+10,Li3BO3,1.5349169994004543,"{""model__n_components"": 7}",M8,PLS,18
+11,LiNO3,1.1400690162323965,"{""model__n_components"": 6}",M8,PLS,18
+12,Li2O2,1.3503941170528109,"{""model__n_components"": 7}",M8,PLS,18
+13,Li2O,1.0740946213884075,"{""model__n_components"": 7}",M8,PLS,18
+14,Li2S,1.5903635244050018,"{""model__n_components"": 6}",M8,PLS,18
+15,Li3N,0.9913036288691781,"{""model__n_components"": 6}",M8,PLS,18
+16,Li3P,1.1071040952247264,"{""model__n_components"": 7}",M8,PLS,18
+17,Li2Se,1.2464390516381831,"{""model__n_components"": 7}",M8,PLS,18
+18,LiF,0.9731571415293715,"{""model__n_components"": 7}",M8,PLS,18
+19,LiC6,1.0672528050380348,"{""model__n_components"": 6}",M8,PLS,18
+20,Li2C2,1.304373723853987,"{""model__n_components"": 6}",M8,PLS,18
+21,Li2CO3,1.2904127690980438,"{""model__n_components"": 7}",M8,PLS,18
+22,Li2C2O4,1.376522950454549,"{""model__n_components"": 7}",M8,PLS,18
+23,Li2C4O4,1.3047022583251593,"{""model__n_components"": 7}",M8,PLS,18
+0,Li5FeO4,1.0906121466040086,"{""model__C"": 1.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M8,SVR_rbf,18
+1,Li6CoO4,1.0396732417336838,"{""model__C"": 1.0, ""model__epsilon"": 0.1, ""model__gamma"": ""scale""}",M8,SVR_rbf,18
+2,Li2NiO2,1.1087126165051644,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.1}",M8,SVR_rbf,18
+3,Li2CuO2,1.0943474098821442,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.1}",M8,SVR_rbf,18
+4,Li4SiO4,1.0838423504888612,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M8,SVR_rbf,18
+5,Li6MnO4,0.9374700045118226,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M8,SVR_rbf,18
+6,Li6ZnO4,1.060789321109257,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M8,SVR_rbf,18
+7,Li5AlO4,1.0294586369065875,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M8,SVR_rbf,18
+8,Li2MoO3,1.1006530118741598,"{""model__C"": 1.0, ""model__epsilon"": 0.1, ""model__gamma"": 0.1}",M8,SVR_rbf,18
+9,Li8ZrO6,1.1403841575551417,"{""model__C"": 1.0, ""model__epsilon"": 0.1, ""model__gamma"": ""scale""}",M8,SVR_rbf,18
+10,Li3BO3,1.096055118137001,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M8,SVR_rbf,18
+11,LiNO3,1.051845113185697,"{""model__C"": 1.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M8,SVR_rbf,18
+12,Li2O2,1.0764663088035644,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M8,SVR_rbf,18
+13,Li2O,1.0688398930118974,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": ""scale""}",M8,SVR_rbf,18
+14,Li2S,1.11977032826777,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": ""scale""}",M8,SVR_rbf,18
+15,Li3N,1.0366506052353055,"{""model__C"": 1.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.1}",M8,SVR_rbf,18
+16,Li3P,1.069443949455036,"{""model__C"": 1.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.1}",M8,SVR_rbf,18
+17,Li2Se,1.147424574878697,"{""model__C"": 1.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.1}",M8,SVR_rbf,18
+18,LiF,1.0276955138734931,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": ""scale""}",M8,SVR_rbf,18
+19,LiC6,0.9721122836147572,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M8,SVR_rbf,18
+20,Li2C2,1.088750099200949,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": ""scale""}",M8,SVR_rbf,18
+21,Li2CO3,1.0962636163232353,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": ""scale""}",M8,SVR_rbf,18
+22,Li2C2O4,1.1147421024947508,"{""model__C"": 1.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.1}",M8,SVR_rbf,18
+23,Li2C4O4,1.1864241767583912,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": ""scale""}",M8,SVR_rbf,18
+0,Li5FeO4,1.243045710733741,"{""model__alpha"": 1000.0}",M9,Ridge,19
+1,Li6CoO4,1.1847946685689248,"{""model__alpha"": 1000.0}",M9,Ridge,19
+2,Li2NiO2,1.2214961857715483,"{""model__alpha"": 1000.0}",M9,Ridge,19
+3,Li2CuO2,1.3029830298811185,"{""model__alpha"": 1000.0}",M9,Ridge,19
+4,Li4SiO4,1.2436024273311206,"{""model__alpha"": 1000.0}",M9,Ridge,19
+5,Li6MnO4,1.0330516718329605,"{""model__alpha"": 10.0}",M9,Ridge,19
+6,Li6ZnO4,1.2819827135131507,"{""model__alpha"": 1000.0}",M9,Ridge,19
+7,Li5AlO4,1.2408345044365365,"{""model__alpha"": 1000.0}",M9,Ridge,19
+8,Li2MoO3,1.253413752457621,"{""model__alpha"": 1000.0}",M9,Ridge,19
+9,Li8ZrO6,1.1963810157699082,"{""model__alpha"": 10.0}",M9,Ridge,19
+10,Li3BO3,1.1148057458885767,"{""model__alpha"": 10.0}",M9,Ridge,19
+11,LiNO3,0.9429286561575252,"{""model__alpha"": 10.0}",M9,Ridge,19
+12,Li2O2,1.090685792988307,"{""model__alpha"": 10.0}",M9,Ridge,19
+13,Li2O,1.0220858342699821,"{""model__alpha"": 10.0}",M9,Ridge,19
+14,Li2S,1.0533659306260819,"{""model__alpha"": 10.0}",M9,Ridge,19
+15,Li3N,0.9457570329391883,"{""model__alpha"": 10.0}",M9,Ridge,19
+16,Li3P,0.9285340396279448,"{""model__alpha"": 10.0}",M9,Ridge,19
+17,Li2Se,0.9752815594326979,"{""model__alpha"": 10.0}",M9,Ridge,19
+18,LiF,0.893214675176503,"{""model__alpha"": 10.0}",M9,Ridge,19
+19,LiC6,0.7239164866108371,"{""model__alpha"": 10.0}",M9,Ridge,19
+20,Li2C2,1.0919381866932496,"{""model__alpha"": 10.0}",M9,Ridge,19
+21,Li2CO3,1.1093050645324996,"{""model__alpha"": 10.0}",M9,Ridge,19
+22,Li2C2O4,1.0929821210624446,"{""model__alpha"": 10.0}",M9,Ridge,19
+23,Li2C4O4,1.1090117678930214,"{""model__alpha"": 10.0}",M9,Ridge,19
+0,Li5FeO4,1.4373542238510644,"{""model__n_components"": 6}",M9,PLS,19
+1,Li6CoO4,1.2175841511113987,"{""model__n_components"": 6}",M9,PLS,19
+2,Li2NiO2,1.2296018980398817,"{""model__n_components"": 6}",M9,PLS,19
+3,Li2CuO2,2.6237021143482826,"{""model__n_components"": 1}",M9,PLS,19
+4,Li4SiO4,1.3236277422517406,"{""model__n_components"": 6}",M9,PLS,19
+5,Li6MnO4,1.0601857841879416,"{""model__n_components"": 3}",M9,PLS,19
+6,Li6ZnO4,1.4967053292810075,"{""model__n_components"": 6}",M9,PLS,19
+7,Li5AlO4,1.557452313160633,"{""model__n_components"": 6}",M9,PLS,19
+8,Li2MoO3,1.4964553136719219,"{""model__n_components"": 6}",M9,PLS,19
+9,Li8ZrO6,1.3458695870333834,"{""model__n_components"": 3}",M9,PLS,19
+10,Li3BO3,1.12675707073162,"{""model__n_components"": 5}",M9,PLS,19
+11,LiNO3,1.0019744258830314,"{""model__n_components"": 4}",M9,PLS,19
+12,Li2O2,1.0856461509869983,"{""model__n_components"": 5}",M9,PLS,19
+13,Li2O,1.1284106214933085,"{""model__n_components"": 3}",M9,PLS,19
+14,Li2S,1.1809267176326654,"{""model__n_components"": 3}",M9,PLS,19
+15,Li3N,0.9588804592232035,"{""model__n_components"": 5}",M9,PLS,19
+16,Li3P,0.8508977151020956,"{""model__n_components"": 4}",M9,PLS,19
+17,Li2Se,0.9321283486451521,"{""model__n_components"": 4}",M9,PLS,19
+18,LiF,1.1686528848339568,"{""model__n_components"": 3}",M9,PLS,19
+19,LiC6,0.6856644152415219,"{""model__n_components"": 3}",M9,PLS,19
+20,Li2C2,1.2865828935150379,"{""model__n_components"": 3}",M9,PLS,19
+21,Li2CO3,1.1808128729410687,"{""model__n_components"": 3}",M9,PLS,19
+22,Li2C2O4,1.127228210219793,"{""model__n_components"": 3}",M9,PLS,19
+23,Li2C4O4,1.1331091415325143,"{""model__n_components"": 3}",M9,PLS,19
+0,Li5FeO4,1.0341781118351583,"{""model__C"": 1.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M9,SVR_rbf,19
+1,Li6CoO4,0.9880932734860484,"{""model__C"": 1.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M9,SVR_rbf,19
+2,Li2NiO2,1.0236399940412628,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": ""scale""}",M9,SVR_rbf,19
+3,Li2CuO2,1.0069138426128288,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": ""scale""}",M9,SVR_rbf,19
+4,Li4SiO4,1.015431131610449,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": ""scale""}",M9,SVR_rbf,19
+5,Li6MnO4,0.9055327428125348,"{""model__C"": 10.0, ""model__epsilon"": 0.1, ""model__gamma"": ""scale""}",M9,SVR_rbf,19
+6,Li6ZnO4,1.0426635807544282,"{""model__C"": 1.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M9,SVR_rbf,19
+7,Li5AlO4,0.9614848949597782,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M9,SVR_rbf,19
+8,Li2MoO3,1.0476341468167853,"{""model__C"": 1.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M9,SVR_rbf,19
+9,Li8ZrO6,1.0955343162307625,"{""model__C"": 1.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M9,SVR_rbf,19
+10,Li3BO3,1.0659178963922114,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M9,SVR_rbf,19
+11,LiNO3,1.0109132480273313,"{""model__C"": 1.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M9,SVR_rbf,19
+12,Li2O2,1.0344018624647477,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M9,SVR_rbf,19
+13,Li2O,1.014955231725756,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": ""scale""}",M9,SVR_rbf,19
+14,Li2S,1.0631005087735488,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": ""scale""}",M9,SVR_rbf,19
+15,Li3N,1.0177677208765858,"{""model__C"": 1.0, ""model__epsilon"": 0.1, ""model__gamma"": 0.1}",M9,SVR_rbf,19
+16,Li3P,1.0432334033332105,"{""model__C"": 1.0, ""model__epsilon"": 0.2, ""model__gamma"": ""scale""}",M9,SVR_rbf,19
+17,Li2Se,1.1076969937767926,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.1}",M9,SVR_rbf,19
+18,LiF,0.9568949864173693,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": ""scale""}",M9,SVR_rbf,19
+19,LiC6,0.7558143421292973,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M9,SVR_rbf,19
+20,Li2C2,1.0892928039785839,"{""model__C"": 1.0, ""model__epsilon"": 0.1, ""model__gamma"": ""scale""}",M9,SVR_rbf,19
+21,Li2CO3,1.1254524942573174,"{""model__C"": 1.0, ""model__epsilon"": 0.1, ""model__gamma"": ""scale""}",M9,SVR_rbf,19
+22,Li2C2O4,1.0686640231569442,"{""model__C"": 1.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M9,SVR_rbf,19
+23,Li2C4O4,1.164089822303096,"{""model__C"": 1.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M9,SVR_rbf,19
+0,Li5FeO4,1.1433945985646818,"{""model__alpha"": 10.0}",M10,Ridge,23
+1,Li6CoO4,1.1899876222616952,"{""model__alpha"": 1000.0}",M10,Ridge,23
+2,Li2NiO2,1.2271224229997304,"{""model__alpha"": 1000.0}",M10,Ridge,23
+3,Li2CuO2,1.3073285789341533,"{""model__alpha"": 1000.0}",M10,Ridge,23
+4,Li4SiO4,1.0686431769582039,"{""model__alpha"": 10.0}",M10,Ridge,23
+5,Li6MnO4,0.8563341904417131,"{""model__alpha"": 10.0}",M10,Ridge,23
+6,Li6ZnO4,1.0163561922014948,"{""model__alpha"": 10.0}",M10,Ridge,23
+7,Li5AlO4,1.0922860281473945,"{""model__alpha"": 10.0}",M10,Ridge,23
+8,Li2MoO3,1.1232502048734088,"{""model__alpha"": 10.0}",M10,Ridge,23
+9,Li8ZrO6,1.0641109574861687,"{""model__alpha"": 10.0}",M10,Ridge,23
+10,Li3BO3,0.9466995899453252,"{""model__alpha"": 10.0}",M10,Ridge,23
+11,LiNO3,0.9133372254786034,"{""model__alpha"": 10.0}",M10,Ridge,23
+12,Li2O2,0.9079373411677538,"{""model__alpha"": 10.0}",M10,Ridge,23
+13,Li2O,0.8629334626254239,"{""model__alpha"": 10.0}",M10,Ridge,23
+14,Li2S,0.9193002895306721,"{""model__alpha"": 10.0}",M10,Ridge,23
+15,Li3N,0.9447473458914366,"{""model__alpha"": 10.0}",M10,Ridge,23
+16,Li3P,0.8765182593737404,"{""model__alpha"": 10.0}",M10,Ridge,23
+17,Li2Se,0.8991949158631634,"{""model__alpha"": 10.0}",M10,Ridge,23
+18,LiF,0.8266333752991448,"{""model__alpha"": 10.0}",M10,Ridge,23
+19,LiC6,0.82017165333675,"{""model__alpha"": 10.0}",M10,Ridge,23
+20,Li2C2,0.9960367158201509,"{""model__alpha"": 10.0}",M10,Ridge,23
+21,Li2CO3,1.011437484270336,"{""model__alpha"": 10.0}",M10,Ridge,23
+22,Li2C2O4,1.016210082293059,"{""model__alpha"": 10.0}",M10,Ridge,23
+23,Li2C4O4,1.0450516757856119,"{""model__alpha"": 10.0}",M10,Ridge,23
+0,Li5FeO4,1.006294961108171,"{""model__n_components"": 5}",M10,PLS,23
+1,Li6CoO4,1.2499412182578602,"{""model__n_components"": 5}",M10,PLS,23
+2,Li2NiO2,1.0214774281258117,"{""model__n_components"": 5}",M10,PLS,23
+3,Li2CuO2,2.542792734251751,"{""model__n_components"": 1}",M10,PLS,23
+4,Li4SiO4,0.8753899824821485,"{""model__n_components"": 5}",M10,PLS,23
+5,Li6MnO4,0.8210011688225475,"{""model__n_components"": 4}",M10,PLS,23
+6,Li6ZnO4,1.1224532322928549,"{""model__n_components"": 4}",M10,PLS,23
+7,Li5AlO4,1.138375597401859,"{""model__n_components"": 5}",M10,PLS,23
+8,Li2MoO3,1.1750265709378553,"{""model__n_components"": 5}",M10,PLS,23
+9,Li8ZrO6,1.0794414579299316,"{""model__n_components"": 4}",M10,PLS,23
+10,Li3BO3,0.9641566654249903,"{""model__n_components"": 4}",M10,PLS,23
+11,LiNO3,0.9625271094882446,"{""model__n_components"": 4}",M10,PLS,23
+12,Li2O2,0.9873432714483987,"{""model__n_components"": 4}",M10,PLS,23
+13,Li2O,1.00648060775602,"{""model__n_components"": 4}",M10,PLS,23
+14,Li2S,1.0139980394902284,"{""model__n_components"": 4}",M10,PLS,23
+15,Li3N,1.0581576287751646,"{""model__n_components"": 4}",M10,PLS,23
+16,Li3P,1.0643074065276548,"{""model__n_components"": 3}",M10,PLS,23
+17,Li2Se,1.0990739870009834,"{""model__n_components"": 3}",M10,PLS,23
+18,LiF,0.8295228155247425,"{""model__n_components"": 3}",M10,PLS,23
+19,LiC6,0.7525506995534055,"{""model__n_components"": 3}",M10,PLS,23
+20,Li2C2,1.0622523460442843,"{""model__n_components"": 4}",M10,PLS,23
+21,Li2CO3,1.1386531697631475,"{""model__n_components"": 3}",M10,PLS,23
+22,Li2C2O4,1.105304147894921,"{""model__n_components"": 3}",M10,PLS,23
+23,Li2C4O4,1.019652338778258,"{""model__n_components"": 4}",M10,PLS,23
+0,Li5FeO4,1.0583367702058388,"{""model__C"": 1.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M10,SVR_rbf,23
+1,Li6CoO4,0.9995446335876592,"{""model__C"": 1.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M10,SVR_rbf,23
+2,Li2NiO2,1.0293797120458268,"{""model__C"": 10.0, ""model__epsilon"": 0.1, ""model__gamma"": ""scale""}",M10,SVR_rbf,23
+3,Li2CuO2,1.0126808346552405,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": ""scale""}",M10,SVR_rbf,23
+4,Li4SiO4,1.0023377192304292,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M10,SVR_rbf,23
+5,Li6MnO4,0.9120930440320535,"{""model__C"": 10.0, ""model__epsilon"": 0.1, ""model__gamma"": ""scale""}",M10,SVR_rbf,23
+6,Li6ZnO4,1.0008638182588592,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M10,SVR_rbf,23
+7,Li5AlO4,1.0449027929711427,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M10,SVR_rbf,23
+8,Li2MoO3,1.0574723591148578,"{""model__C"": 1.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M10,SVR_rbf,23
+9,Li8ZrO6,1.110740159762279,"{""model__C"": 1.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M10,SVR_rbf,23
+10,Li3BO3,1.0836766705481922,"{""model__C"": 10.0, ""model__epsilon"": 0.1, ""model__gamma"": ""scale""}",M10,SVR_rbf,23
+11,LiNO3,1.03428782316984,"{""model__C"": 1.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M10,SVR_rbf,23
+12,Li2O2,1.0698805464320684,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": ""scale""}",M10,SVR_rbf,23
+13,Li2O,1.0369428878735278,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": ""scale""}",M10,SVR_rbf,23
+14,Li2S,1.0815878162588963,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M10,SVR_rbf,23
+15,Li3N,1.049923759507772,"{""model__C"": 1.0, ""model__epsilon"": 0.1, ""model__gamma"": 0.1}",M10,SVR_rbf,23
+16,Li3P,1.0095352098098995,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M10,SVR_rbf,23
+17,Li2Se,1.0380231035457044,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M10,SVR_rbf,23
+18,LiF,0.97215847219933,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": ""scale""}",M10,SVR_rbf,23
+19,LiC6,0.8281467378544782,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M10,SVR_rbf,23
+20,Li2C2,0.9656487458174073,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M10,SVR_rbf,23
+21,Li2CO3,1.0670956173127566,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M10,SVR_rbf,23
+22,Li2C2O4,1.0844301315527871,"{""model__C"": 1.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M10,SVR_rbf,23
+23,Li2C4O4,1.1383013180190766,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M10,SVR_rbf,23
+0,Li5FeO4,1.2486426823417052,"{""model__alpha"": 1000.0}",M11,Ridge,4
+1,Li6CoO4,1.1858393246768644,"{""model__alpha"": 1000.0}",M11,Ridge,4
+2,Li2NiO2,1.225339148327071,"{""model__alpha"": 1000.0}",M11,Ridge,4
+3,Li2CuO2,1.2403407255317238,"{""model__alpha"": 1000.0}",M11,Ridge,4
+4,Li4SiO4,1.2496269458599922,"{""model__alpha"": 1000.0}",M11,Ridge,4
+5,Li6MnO4,1.1910040728749327,"{""model__alpha"": 1000.0}",M11,Ridge,4
+6,Li6ZnO4,1.2816428347148974,"{""model__alpha"": 1000.0}",M11,Ridge,4
+7,Li5AlO4,1.1920865893175963,"{""model__alpha"": 0.01}",M11,Ridge,4
+8,Li2MoO3,1.2477075445260883,"{""model__alpha"": 1000.0}",M11,Ridge,4
+9,Li8ZrO6,1.270489970490673,"{""model__alpha"": 1000.0}",M11,Ridge,4
+10,Li3BO3,1.2529779708388051,"{""model__alpha"": 1000.0}",M11,Ridge,4
+11,LiNO3,1.2048147925700565,"{""model__alpha"": 1000.0}",M11,Ridge,4
+12,Li2O2,1.275743666432574,"{""model__alpha"": 1000.0}",M11,Ridge,4
+13,Li2O,1.2904989513215783,"{""model__alpha"": 1000.0}",M11,Ridge,4
+14,Li2S,1.282122958631835,"{""model__alpha"": 1000.0}",M11,Ridge,4
+15,Li3N,1.1870177917365832,"{""model__alpha"": 1000.0}",M11,Ridge,4
+16,Li3P,1.2122073229326589,"{""model__alpha"": 1000.0}",M11,Ridge,4
+17,Li2Se,1.249496525202759,"{""model__alpha"": 0.01}",M11,Ridge,4
+18,LiF,1.1935736799242789,"{""model__alpha"": 1000.0}",M11,Ridge,4
+19,LiC6,1.1980850265692615,"{""model__alpha"": 0.1}",M11,Ridge,4
+20,Li2C2,1.2214007769330233,"{""model__alpha"": 0.1}",M11,Ridge,4
+21,Li2CO3,1.2849945286097786,"{""model__alpha"": 1000.0}",M11,Ridge,4
+22,Li2C2O4,1.26340779689821,"{""model__alpha"": 1000.0}",M11,Ridge,4
+23,Li2C4O4,1.3380153585179975,"{""model__alpha"": 1000.0}",M11,Ridge,4
+0,Li5FeO4,1.2825513680735596,"{""model__n_components"": 4}",M11,PLS,4
+1,Li6CoO4,1.3667965740618002,"{""model__n_components"": 4}",M11,PLS,4
+2,Li2NiO2,1.4608350738215996,"{""model__n_components"": 4}",M11,PLS,4
+3,Li2CuO2,1.3843899678317786,"{""model__n_components"": 4}",M11,PLS,4
+4,Li4SiO4,1.2579289260460957,"{""model__n_components"": 4}",M11,PLS,4
+5,Li6MnO4,1.2139801517071596,"{""model__n_components"": 4}",M11,PLS,4
+6,Li6ZnO4,1.3406687521053144,"{""model__n_components"": 4}",M11,PLS,4
+7,Li5AlO4,1.193586355021916,"{""model__n_components"": 4}",M11,PLS,4
+8,Li2MoO3,1.2734063952974206,"{""model__n_components"": 4}",M11,PLS,4
+9,Li8ZrO6,1.3466774350493635,"{""model__n_components"": 4}",M11,PLS,4
+10,Li3BO3,1.3492969612453747,"{""model__n_components"": 4}",M11,PLS,4
+11,LiNO3,1.3366891613911724,"{""model__n_components"": 4}",M11,PLS,4
+12,Li2O2,1.3658544581123193,"{""model__n_components"": 4}",M11,PLS,4
+13,Li2O,1.4498985940978684,"{""model__n_components"": 4}",M11,PLS,4
+14,Li2S,1.4333725310730547,"{""model__n_components"": 4}",M11,PLS,4
+15,Li3N,1.4467207735408363,"{""model__n_components"": 1}",M11,PLS,4
+16,Li3P,1.3465533360385862,"{""model__n_components"": 4}",M11,PLS,4
+17,Li2Se,1.2516002694524948,"{""model__n_components"": 4}",M11,PLS,4
+18,LiF,1.211543633967378,"{""model__n_components"": 4}",M11,PLS,4
+19,LiC6,1.2001721998127342,"{""model__n_components"": 4}",M11,PLS,4
+20,Li2C2,1.2606869514733279,"{""model__n_components"": 4}",M11,PLS,4
+21,Li2CO3,1.2959082907433117,"{""model__n_components"": 4}",M11,PLS,4
+22,Li2C2O4,1.292163892316321,"{""model__n_components"": 4}",M11,PLS,4
+23,Li2C4O4,1.3996495080774034,"{""model__n_components"": 4}",M11,PLS,4
+0,Li5FeO4,1.0131173649714724,"{""model__C"": 100.0, ""model__epsilon"": 0.1, ""model__gamma"": 1.0}",M11,SVR_rbf,4
+1,Li6CoO4,0.8694086025291414,"{""model__C"": 10.0, ""model__epsilon"": 0.1, ""model__gamma"": 0.1}",M11,SVR_rbf,4
+2,Li2NiO2,1.0331185164704724,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.1}",M11,SVR_rbf,4
+3,Li2CuO2,1.0012129406410841,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.1}",M11,SVR_rbf,4
+4,Li4SiO4,0.9978445284481106,"{""model__C"": 10.0, ""model__epsilon"": 0.1, ""model__gamma"": 0.1}",M11,SVR_rbf,4
+5,Li6MnO4,0.9550902678466432,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.1}",M11,SVR_rbf,4
+6,Li6ZnO4,1.1162367878346466,"{""model__C"": 1.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.1}",M11,SVR_rbf,4
+7,Li5AlO4,0.9487575397870465,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.1}",M11,SVR_rbf,4
+8,Li2MoO3,0.8928106057012833,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.1}",M11,SVR_rbf,4
+9,Li8ZrO6,0.9315352821995138,"{""model__C"": 10.0, ""model__epsilon"": 0.1, ""model__gamma"": 0.1}",M11,SVR_rbf,4
+10,Li3BO3,1.023850923780114,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.1}",M11,SVR_rbf,4
+11,LiNO3,0.9898005532415549,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.1}",M11,SVR_rbf,4
+12,Li2O2,0.8590844028619733,"{""model__C"": 10.0, ""model__epsilon"": 0.1, ""model__gamma"": 0.1}",M11,SVR_rbf,4
+13,Li2O,1.0522217323061018,"{""model__C"": 10.0, ""model__epsilon"": 0.1, ""model__gamma"": 0.1}",M11,SVR_rbf,4
+14,Li2S,0.9429818450790688,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.1}",M11,SVR_rbf,4
+15,Li3N,1.0024837244456308,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.1}",M11,SVR_rbf,4
+16,Li3P,1.0662929014348999,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.1}",M11,SVR_rbf,4
+17,Li2Se,1.0805218053888999,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.1}",M11,SVR_rbf,4
+18,LiF,0.9790145471899695,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.1}",M11,SVR_rbf,4
+19,LiC6,1.0769582163522087,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.1}",M11,SVR_rbf,4
+20,Li2C2,0.9197149547380686,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.1}",M11,SVR_rbf,4
+21,Li2CO3,1.0295498518980186,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.1}",M11,SVR_rbf,4
+22,Li2C2O4,1.0575878285613347,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.1}",M11,SVR_rbf,4
+23,Li2C4O4,1.1568094034628436,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.1}",M11,SVR_rbf,4
+0,Li5FeO4,0.8330651472132982,"{""model__alpha"": 1.0}",M12,Ridge,5
+1,Li6CoO4,0.7454351437743211,"{""model__alpha"": 1.0}",M12,Ridge,5
+2,Li2NiO2,0.8120460774826839,"{""model__alpha"": 0.1}",M12,Ridge,5
+3,Li2CuO2,0.8119322156679274,"{""model__alpha"": 0.1}",M12,Ridge,5
+4,Li4SiO4,0.8379487665765721,"{""model__alpha"": 0.1}",M12,Ridge,5
+5,Li6MnO4,0.7503099943659448,"{""model__alpha"": 0.01}",M12,Ridge,5
+6,Li6ZnO4,0.855029326165164,"{""model__alpha"": 0.1}",M12,Ridge,5
+7,Li5AlO4,0.8510850762411775,"{""model__alpha"": 0.1}",M12,Ridge,5
+8,Li2MoO3,0.8883847956876985,"{""model__alpha"": 0.1}",M12,Ridge,5
+9,Li8ZrO6,0.8757374748094925,"{""model__alpha"": 0.1}",M12,Ridge,5
+10,Li3BO3,0.8821041953236323,"{""model__alpha"": 0.1}",M12,Ridge,5
+11,LiNO3,0.805278367859492,"{""model__alpha"": 0.1}",M12,Ridge,5
+12,Li2O2,0.8666716416541178,"{""model__alpha"": 0.1}",M12,Ridge,5
+13,Li2O,0.799573532178733,"{""model__alpha"": 1.0}",M12,Ridge,5
+14,Li2S,0.8483534924834452,"{""model__alpha"": 0.1}",M12,Ridge,5
+15,Li3N,0.8704442630275656,"{""model__alpha"": 1.0}",M12,Ridge,5
+16,Li3P,0.8596762237074955,"{""model__alpha"": 1.0}",M12,Ridge,5
+17,Li2Se,0.8070105445895756,"{""model__alpha"": 0.1}",M12,Ridge,5
+18,LiF,0.8265897215798594,"{""model__alpha"": 0.1}",M12,Ridge,5
+19,LiC6,0.8113342015201503,"{""model__alpha"": 1.0}",M12,Ridge,5
+20,Li2C2,0.7371162419164993,"{""model__alpha"": 1.0}",M12,Ridge,5
+21,Li2CO3,0.7983292476534964,"{""model__alpha"": 0.1}",M12,Ridge,5
+22,Li2C2O4,0.7159397775687061,"{""model__alpha"": 1.0}",M12,Ridge,5
+23,Li2C4O4,0.7411958573633181,"{""model__alpha"": 1.0}",M12,Ridge,5
+0,Li5FeO4,0.831756934239451,"{""model__n_components"": 2}",M12,PLS,5
+1,Li6CoO4,0.7660345308422288,"{""model__n_components"": 4}",M12,PLS,5
+2,Li2NiO2,0.8080925106682338,"{""model__n_components"": 4}",M12,PLS,5
+3,Li2CuO2,0.809946215917774,"{""model__n_components"": 4}",M12,PLS,5
+4,Li4SiO4,0.8153871916459245,"{""model__n_components"": 4}",M12,PLS,5
+5,Li6MnO4,0.7508748952183584,"{""model__n_components"": 5}",M12,PLS,5
+6,Li6ZnO4,0.8502143817654251,"{""model__n_components"": 4}",M12,PLS,5
+7,Li5AlO4,0.8214965033702631,"{""model__n_components"": 4}",M12,PLS,5
+8,Li2MoO3,0.8424918475400401,"{""model__n_components"": 4}",M12,PLS,5
+9,Li8ZrO6,0.8137861064126367,"{""model__n_components"": 4}",M12,PLS,5
+10,Li3BO3,0.8257823374424429,"{""model__n_components"": 4}",M12,PLS,5
+11,LiNO3,0.7797473924882845,"{""model__n_components"": 4}",M12,PLS,5
+12,Li2O2,0.8379642575258378,"{""model__n_components"": 3}",M12,PLS,5
+13,Li2O,0.8109332589071151,"{""model__n_components"": 3}",M12,PLS,5
+14,Li2S,0.7984147332165956,"{""model__n_components"": 4}",M12,PLS,5
+15,Li3N,0.8213272359639439,"{""model__n_components"": 4}",M12,PLS,5
+16,Li3P,0.8286655265948237,"{""model__n_components"": 4}",M12,PLS,5
+17,Li2Se,0.7887116125900713,"{""model__n_components"": 4}",M12,PLS,5
+18,LiF,0.7985597135490695,"{""model__n_components"": 4}",M12,PLS,5
+19,LiC6,0.7908321322079818,"{""model__n_components"": 2}",M12,PLS,5
+20,Li2C2,0.7267083069371502,"{""model__n_components"": 3}",M12,PLS,5
+21,Li2CO3,0.7756181283576948,"{""model__n_components"": 3}",M12,PLS,5
+22,Li2C2O4,0.6978884327824276,"{""model__n_components"": 3}",M12,PLS,5
+23,Li2C4O4,0.7186411543923839,"{""model__n_components"": 3}",M12,PLS,5
+0,Li5FeO4,0.8148641289150194,"{""model__C"": 10.0, ""model__epsilon"": 0.1, ""model__gamma"": 0.01}",M12,SVR_rbf,5
+1,Li6CoO4,0.7958871034954906,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M12,SVR_rbf,5
+2,Li2NiO2,0.865486100806389,"{""model__C"": 10.0, ""model__epsilon"": 0.1, ""model__gamma"": 0.01}",M12,SVR_rbf,5
+3,Li2CuO2,0.8329565857095137,"{""model__C"": 100.0, ""model__epsilon"": 0.1, ""model__gamma"": 0.01}",M12,SVR_rbf,5
+4,Li4SiO4,0.8911659809596939,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M12,SVR_rbf,5
+5,Li6MnO4,0.8212252010786951,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M12,SVR_rbf,5
+6,Li6ZnO4,0.9148527074702774,"{""model__C"": 10.0, ""model__epsilon"": 0.1, ""model__gamma"": 0.01}",M12,SVR_rbf,5
+7,Li5AlO4,0.8709833442469286,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M12,SVR_rbf,5
+8,Li2MoO3,0.8499363764472865,"{""model__C"": 100.0, ""model__epsilon"": 0.1, ""model__gamma"": 0.01}",M12,SVR_rbf,5
+9,Li8ZrO6,0.8069696080144203,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M12,SVR_rbf,5
+10,Li3BO3,0.8061123298501081,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M12,SVR_rbf,5
+11,LiNO3,0.7356765383084669,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M12,SVR_rbf,5
+12,Li2O2,0.8736922996202254,"{""model__C"": 10.0, ""model__epsilon"": 0.1, ""model__gamma"": 0.01}",M12,SVR_rbf,5
+13,Li2O,0.8172267741300969,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M12,SVR_rbf,5
+14,Li2S,0.8671244050951132,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M12,SVR_rbf,5
+15,Li3N,0.9080832985187722,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M12,SVR_rbf,5
+16,Li3P,0.9080972111484309,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M12,SVR_rbf,5
+17,Li2Se,0.8855338192440625,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M12,SVR_rbf,5
+18,LiF,0.8152438271130713,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M12,SVR_rbf,5
+19,LiC6,0.8949103544484304,"{""model__C"": 10.0, ""model__epsilon"": 0.1, ""model__gamma"": 0.01}",M12,SVR_rbf,5
+20,Li2C2,0.6948351620181457,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M12,SVR_rbf,5
+21,Li2CO3,0.8199643986101327,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M12,SVR_rbf,5
+22,Li2C2O4,0.7396268003892656,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M12,SVR_rbf,5
+23,Li2C4O4,0.7628543208014663,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M12,SVR_rbf,5
+0,Li5FeO4,1.221899973371127,"{""model__alpha"": 10.0}",M6_control,Ridge,24
+1,Li6CoO4,1.1907597987735195,"{""model__alpha"": 1000.0}",M6_control,Ridge,24
+2,Li2NiO2,1.227419816727145,"{""model__alpha"": 1000.0}",M6_control,Ridge,24
+3,Li2CuO2,1.3075452860081342,"{""model__alpha"": 1000.0}",M6_control,Ridge,24
+4,Li4SiO4,1.1417175992123316,"{""model__alpha"": 10.0}",M6_control,Ridge,24
+5,Li6MnO4,0.9241982372613258,"{""model__alpha"": 10.0}",M6_control,Ridge,24
+6,Li6ZnO4,1.0821470746689523,"{""model__alpha"": 10.0}",M6_control,Ridge,24
+7,Li5AlO4,1.1960566831674277,"{""model__alpha"": 10.0}",M6_control,Ridge,24
+8,Li2MoO3,1.2434152469720483,"{""model__alpha"": 10.0}",M6_control,Ridge,24
+9,Li8ZrO6,1.1527820428419253,"{""model__alpha"": 10.0}",M6_control,Ridge,24
+10,Li3BO3,1.0776401507261208,"{""model__alpha"": 10.0}",M6_control,Ridge,24
+11,LiNO3,0.9434270649237876,"{""model__alpha"": 10.0}",M6_control,Ridge,24
+12,Li2O2,1.0129706457399634,"{""model__alpha"": 10.0}",M6_control,Ridge,24
+13,Li2O,0.9965171944572706,"{""model__alpha"": 10.0}",M6_control,Ridge,24
+14,Li2S,1.0286220787446576,"{""model__alpha"": 10.0}",M6_control,Ridge,24
+15,Li3N,1.0833971346692146,"{""model__alpha"": 10.0}",M6_control,Ridge,24
+16,Li3P,0.9299731238245975,"{""model__alpha"": 10.0}",M6_control,Ridge,24
+17,Li2Se,0.9526971174153147,"{""model__alpha"": 10.0}",M6_control,Ridge,24
+18,LiF,0.7702640325008767,"{""model__alpha"": 10.0}",M6_control,Ridge,24
+19,LiC6,0.759568816050512,"{""model__alpha"": 10.0}",M6_control,Ridge,24
+20,Li2C2,1.10666468672532,"{""model__alpha"": 10.0}",M6_control,Ridge,24
+21,Li2CO3,1.0869662138155884,"{""model__alpha"": 10.0}",M6_control,Ridge,24
+22,Li2C2O4,1.0708339322736113,"{""model__alpha"": 10.0}",M6_control,Ridge,24
+23,Li2C4O4,1.0616817552550795,"{""model__alpha"": 10.0}",M6_control,Ridge,24
+0,Li5FeO4,1.2182990124642774,"{""model__n_components"": 5}",M6_control,PLS,24
+1,Li6CoO4,1.2193136516862997,"{""model__n_components"": 6}",M6_control,PLS,24
+2,Li2NiO2,0.9990516615133256,"{""model__n_components"": 6}",M6_control,PLS,24
+3,Li2CuO2,2.5409780791397556,"{""model__n_components"": 1}",M6_control,PLS,24
+4,Li4SiO4,1.1355989274624663,"{""model__n_components"": 5}",M6_control,PLS,24
+5,Li6MnO4,0.8274757248207585,"{""model__n_components"": 5}",M6_control,PLS,24
+6,Li6ZnO4,1.0511146578817152,"{""model__n_components"": 5}",M6_control,PLS,24
+7,Li5AlO4,1.1498561650303016,"{""model__n_components"": 5}",M6_control,PLS,24
+8,Li2MoO3,1.2240252853912703,"{""model__n_components"": 5}",M6_control,PLS,24
+9,Li8ZrO6,0.9694318002451107,"{""model__n_components"": 5}",M6_control,PLS,24
+10,Li3BO3,0.9828803141354825,"{""model__n_components"": 5}",M6_control,PLS,24
+11,LiNO3,0.8879967855922206,"{""model__n_components"": 4}",M6_control,PLS,24
+12,Li2O2,1.0881521633985918,"{""model__n_components"": 5}",M6_control,PLS,24
+13,Li2O,0.9531602807257263,"{""model__n_components"": 5}",M6_control,PLS,24
+14,Li2S,1.109559531765505,"{""model__n_components"": 4}",M6_control,PLS,24
+15,Li3N,0.925826118665632,"{""model__n_components"": 5}",M6_control,PLS,24
+16,Li3P,0.936445684691291,"{""model__n_components"": 4}",M6_control,PLS,24
+17,Li2Se,1.0125691216898736,"{""model__n_components"": 4}",M6_control,PLS,24
+18,LiF,0.8762541367651412,"{""model__n_components"": 3}",M6_control,PLS,24
+19,LiC6,0.775618484010899,"{""model__n_components"": 4}",M6_control,PLS,24
+20,Li2C2,1.0300039682217417,"{""model__n_components"": 4}",M6_control,PLS,24
+21,Li2CO3,1.1217044640396856,"{""model__n_components"": 4}",M6_control,PLS,24
+22,Li2C2O4,1.0949988504892092,"{""model__n_components"": 3}",M6_control,PLS,24
+23,Li2C4O4,0.99644053783541,"{""model__n_components"": 4}",M6_control,PLS,24
+0,Li5FeO4,1.1215818529463053,"{""model__C"": 1.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M6_control,SVR_rbf,24
+1,Li6CoO4,1.0610618797057016,"{""model__C"": 1.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M6_control,SVR_rbf,24
+2,Li2NiO2,1.045713075725525,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M6_control,SVR_rbf,24
+3,Li2CuO2,1.0335531913535616,"{""model__C"": 100.0, ""model__epsilon"": 0.1, ""model__gamma"": ""scale""}",M6_control,SVR_rbf,24
+4,Li4SiO4,0.9599773146781441,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M6_control,SVR_rbf,24
+5,Li6MnO4,0.9452243313471442,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M6_control,SVR_rbf,24
+6,Li6ZnO4,1.031979939105524,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M6_control,SVR_rbf,24
+7,Li5AlO4,1.0574028030176685,"{""model__C"": 1.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M6_control,SVR_rbf,24
+8,Li2MoO3,1.052963660713107,"{""model__C"": 100.0, ""model__epsilon"": 0.1, ""model__gamma"": 0.01}",M6_control,SVR_rbf,24
+9,Li8ZrO6,1.0944046429648904,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M6_control,SVR_rbf,24
+10,Li3BO3,1.0861378834631832,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M6_control,SVR_rbf,24
+11,LiNO3,1.0511647900243848,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M6_control,SVR_rbf,24
+12,Li2O2,1.0434356467304002,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M6_control,SVR_rbf,24
+13,Li2O,1.0213660928737365,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M6_control,SVR_rbf,24
+14,Li2S,1.0525836096779588,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M6_control,SVR_rbf,24
+15,Li3N,1.0752362251913448,"{""model__C"": 1.0, ""model__epsilon"": 0.01, ""model__gamma"": ""scale""}",M6_control,SVR_rbf,24
+16,Li3P,0.9652683450845224,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M6_control,SVR_rbf,24
+17,Li2Se,1.0124814143452225,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M6_control,SVR_rbf,24
+18,LiF,0.975833425843794,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M6_control,SVR_rbf,24
+19,LiC6,0.820542948514451,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M6_control,SVR_rbf,24
+20,Li2C2,0.9650005175340169,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M6_control,SVR_rbf,24
+21,Li2CO3,1.0161038950369832,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""model__gamma"": 0.01}",M6_control,SVR_rbf,24
+22,Li2C2O4,1.0836591860317593,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M6_control,SVR_rbf,24
+23,Li2C4O4,1.1180216432174594,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""model__gamma"": 0.01}",M6_control,SVR_rbf,24

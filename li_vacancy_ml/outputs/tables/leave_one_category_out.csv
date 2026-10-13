@@ -1,0 +1,7 @@
+held_out_category,n_train,n_test,test_materials,MAE,RMSE,best_params
+carbon-containing,19,5,LiC6;Li2C2;Li2CO3;Li2C2O4;Li2C4O4,1.544884072440053,2.338782660273765,"{""model__alpha"": 10.0}"
+halide,23,1,LiF,1.6765938015201973,1.6765938015201973,"{""model__alpha"": 10.0}"
+nitride/nitrate,22,2,LiNO3;Li3N,1.6813858857697608,1.6981589652518632,"{""model__alpha"": 10.0}"
+oxygen-containing,11,13,Li5FeO4;Li6CoO4;Li2NiO2;Li2CuO2;Li4SiO4;Li6MnO4;Li6ZnO4;Li5AlO4;Li2MoO3;Li8ZrO6;Li3BO3;Li2O2;Li2O,1.0320823527877196,1.3385737053218323,"{""model__alpha"": 100.0}"
+phosphide/phosphate,23,1,Li3P,1.1655213758543,1.1655213758543,"{""model__alpha"": 1.0}"
+sulfide-selenide,22,2,Li2S;Li2Se,1.4506001456815159,1.546143120445723,"{""model__alpha"": 1.0}"

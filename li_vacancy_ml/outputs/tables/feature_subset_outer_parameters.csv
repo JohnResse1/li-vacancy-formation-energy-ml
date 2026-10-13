@@ -1,0 +1,145 @@
+row_index,material,experiment,model,target_transform,inner_cv_mae,best_params,selected_features,selected_feature_count
+0,Li5FeO4,FS1,Ridge,identity,0.7820129813138709,"{""model__alpha"": 1.0, ""selector__k"": 1}",band_gap,1
+1,Li6CoO4,FS1,Ridge,identity,0.728768573182459,"{""model__alpha"": 1.0, ""selector__k"": 1}",band_gap,1
+2,Li2NiO2,FS1,Ridge,identity,0.7678473859889474,"{""model__alpha"": 1.0, ""selector__k"": 1}",band_gap,1
+3,Li2CuO2,FS1,Ridge,identity,0.738610679035545,"{""model__alpha"": 1.0, ""selector__k"": 1}",band_gap,1
+4,Li4SiO4,FS1,Ridge,identity,0.7685619365175405,"{""model__alpha"": 1.0, ""selector__k"": 1}",band_gap,1
+5,Li6MnO4,FS1,Ridge,identity,0.7202608281321291,"{""model__alpha"": 1.0, ""selector__k"": 1}",band_gap,1
+6,Li6ZnO4,FS1,Ridge,identity,0.7839415550679925,"{""model__alpha"": 1.0, ""selector__k"": 1}",band_gap,1
+7,Li5AlO4,FS1,Ridge,identity,0.7836197780569479,"{""model__alpha"": 1.0, ""selector__k"": 1}",band_gap,1
+8,Li2MoO3,FS1,Ridge,identity,0.7831162775043707,"{""model__alpha"": 1.0, ""selector__k"": 1}",band_gap,1
+9,Li8ZrO6,FS1,Ridge,identity,0.7646538286590536,"{""model__alpha"": 1.0, ""selector__k"": 1}",band_gap,1
+10,Li3BO3,FS1,Ridge,identity,0.7765141347760445,"{""model__alpha"": 1.0, ""selector__k"": 1}",band_gap,1
+11,LiNO3,FS1,Ridge,identity,0.6723286224252764,"{""model__alpha"": 0.1, ""selector__k"": 1}",band_gap,1
+12,Li2O2,FS1,Ridge,identity,0.7371471012273767,"{""model__alpha"": 1.0, ""selector__k"": 1}",band_gap,1
+13,Li2O,FS1,Ridge,identity,0.7167551410763817,"{""model__alpha"": 0.01, ""selector__k"": 2}",band_gap;li_framework_electronegativity_difference,2
+14,Li2S,FS1,Ridge,identity,0.7420196353538018,"{""model__alpha"": 1.0, ""selector__k"": 1}",band_gap,1
+15,Li3N,FS1,Ridge,identity,0.6983440359970398,"{""model__alpha"": 0.1, ""selector__k"": 1}",band_gap,1
+16,Li3P,FS1,Ridge,identity,0.7375662425846252,"{""model__alpha"": 0.1, ""selector__k"": 1}",band_gap,1
+17,Li2Se,FS1,Ridge,identity,0.7362702992300527,"{""model__alpha"": 0.1, ""selector__k"": 1}",band_gap,1
+18,LiF,FS1,Ridge,identity,0.7594429084561594,"{""model__alpha"": 0.01, ""selector__k"": 1}",band_gap,1
+19,LiC6,FS1,Ridge,identity,0.6362293873496487,"{""model__alpha"": 1.0, ""selector__k"": 6}",band_gap;li_coordination_number_std;li_atomic_fraction;li_framework_electronegativity_difference;mean_framework_atomic_radius;formation_energy_per_atom,6
+20,Li2C2,FS1,Ridge,identity,0.7374266312861797,"{""model__alpha"": 0.01, ""selector__k"": 2}",band_gap;formation_energy_per_atom,2
+21,Li2CO3,FS1,Ridge,identity,0.7733933984727662,"{""model__alpha"": 0.1, ""selector__k"": 1}",band_gap,1
+22,Li2C2O4,FS1,Ridge,identity,0.693475370025974,"{""model__alpha"": 0.01, ""selector__k"": 1}",band_gap,1
+23,Li2C4O4,FS1,Ridge,identity,0.7408905071598351,"{""model__alpha"": 0.01, ""selector__k"": 1}",band_gap,1
+0,Li5FeO4,FS1,SVR_linear,identity,0.7414731537923492,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""selector__k"": 1}",band_gap,1
+1,Li6CoO4,FS1,SVR_linear,identity,0.6830809755395826,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""selector__k"": 1}",band_gap,1
+2,Li2NiO2,FS1,SVR_linear,identity,0.7391509290713444,"{""model__C"": 1.0, ""model__epsilon"": 0.01, ""selector__k"": 1}",band_gap,1
+3,Li2CuO2,FS1,SVR_linear,identity,0.7031660235618559,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""selector__k"": 1}",band_gap,1
+4,Li4SiO4,FS1,SVR_linear,identity,0.7344769878271323,"{""model__C"": 1.0, ""model__epsilon"": 0.1, ""selector__k"": 1}",band_gap,1
+5,Li6MnO4,FS1,SVR_linear,identity,0.6899489548922635,"{""model__C"": 10.0, ""model__epsilon"": 0.01, ""selector__k"": 1}",band_gap,1
+6,Li6ZnO4,FS1,SVR_linear,identity,0.7413880294732644,"{""model__C"": 1.0, ""model__epsilon"": 0.2, ""selector__k"": 1}",band_gap,1
+7,Li5AlO4,FS1,SVR_linear,identity,0.7434939026588044,"{""model__C"": 1.0, ""model__epsilon"": 0.2, ""selector__k"": 1}",band_gap,1
+8,Li2MoO3,FS1,SVR_linear,identity,0.758244232709728,"{""model__C"": 10.0, ""model__epsilon"": 0.1, ""selector__k"": 1}",band_gap,1
+9,Li8ZrO6,FS1,SVR_linear,identity,0.7491436287897283,"{""model__C"": 1.0, ""model__epsilon"": 0.1, ""selector__k"": 1}",band_gap,1
+10,Li3BO3,FS1,SVR_linear,identity,0.7581993898422577,"{""model__C"": 1.0, ""model__epsilon"": 0.1, ""selector__k"": 1}",band_gap,1
+11,LiNO3,FS1,SVR_linear,identity,0.6522797367630886,"{""model__C"": 1.0, ""model__epsilon"": 0.2, ""selector__k"": 1}",band_gap,1
+12,Li2O2,FS1,SVR_linear,identity,0.6997218753243428,"{""model__C"": 100.0, ""model__epsilon"": 0.1, ""selector__k"": 1}",band_gap,1
+13,Li2O,FS1,SVR_linear,identity,0.6870667620674669,"{""model__C"": 1.0, ""model__epsilon"": 0.01, ""selector__k"": 2}",band_gap;li_framework_electronegativity_difference,2
+14,Li2S,FS1,SVR_linear,identity,0.7323185825137296,"{""model__C"": 1.0, ""model__epsilon"": 0.01, ""selector__k"": 2}",band_gap;li_framework_electronegativity_difference,2
+15,Li3N,FS1,SVR_linear,identity,0.713596778593982,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""selector__k"": 1}",band_gap,1
+16,Li3P,FS1,SVR_linear,identity,0.7580541450987456,"{""model__C"": 1.0, ""model__epsilon"": 0.01, ""selector__k"": 1}",band_gap,1
+17,Li2Se,FS1,SVR_linear,identity,0.7496042380790234,"{""model__C"": 1.0, ""model__epsilon"": 0.01, ""selector__k"": 1}",band_gap,1
+18,LiF,FS1,SVR_linear,identity,0.775382808147998,"{""model__C"": 1.0, ""model__epsilon"": 0.2, ""selector__k"": 1}",band_gap,1
+19,LiC6,FS1,SVR_linear,identity,0.6442428464803197,"{""model__C"": 100.0, ""model__epsilon"": 0.01, ""selector__k"": 3}",band_gap;li_framework_electronegativity_difference;mean_framework_atomic_radius,3
+20,Li2C2,FS1,SVR_linear,identity,0.7201487571134023,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""selector__k"": 1}",band_gap,1
+21,Li2CO3,FS1,SVR_linear,identity,0.7407341324699075,"{""model__C"": 100.0, ""model__epsilon"": 0.2, ""selector__k"": 1}",band_gap,1
+22,Li2C2O4,FS1,SVR_linear,identity,0.6764690301025407,"{""model__C"": 10.0, ""model__epsilon"": 0.2, ""selector__k"": 1}",band_gap,1
+23,Li2C4O4,FS1,SVR_linear,identity,0.7054194013935217,"{""model__C"": 1.0, ""model__epsilon"": 0.2, ""selector__k"": 1}",band_gap,1
+0,Li5FeO4,FS1,Ridge,sqrt,0.8266235068561489,"{""regressor__model__alpha"": 10.0, ""regressor__selector__k"": 1}",band_gap,1
+1,Li6CoO4,FS1,Ridge,sqrt,0.7507506340184811,"{""regressor__model__alpha"": 10.0, ""regressor__selector__k"": 1}",band_gap,1
+2,Li2NiO2,FS1,Ridge,sqrt,0.8038886730922243,"{""regressor__model__alpha"": 10.0, ""regressor__selector__k"": 1}",band_gap,1
+3,Li2CuO2,FS1,Ridge,sqrt,0.7925100933638612,"{""regressor__model__alpha"": 10.0, ""regressor__selector__k"": 1}",band_gap,1
+4,Li4SiO4,FS1,Ridge,sqrt,0.7797285670218417,"{""regressor__model__alpha"": 10.0, ""regressor__selector__k"": 1}",band_gap,1
+5,Li6MnO4,FS1,Ridge,sqrt,0.7396713729687191,"{""regressor__model__alpha"": 10.0, ""regressor__selector__k"": 1}",band_gap,1
+6,Li6ZnO4,FS1,Ridge,sqrt,0.8182953550038745,"{""regressor__model__alpha"": 10.0, ""regressor__selector__k"": 1}",band_gap,1
+7,Li5AlO4,FS1,Ridge,sqrt,0.8048160235102042,"{""regressor__model__alpha"": 10.0, ""regressor__selector__k"": 1}",band_gap,1
+8,Li2MoO3,FS1,Ridge,sqrt,0.8273118561647899,"{""regressor__model__alpha"": 10.0, ""regressor__selector__k"": 1}",band_gap,1
+9,Li8ZrO6,FS1,Ridge,sqrt,0.8357368491627633,"{""regressor__model__alpha"": 10.0, ""regressor__selector__k"": 1}",band_gap,1
+10,Li3BO3,FS1,Ridge,sqrt,0.8487336985915702,"{""regressor__model__alpha"": 10.0, ""regressor__selector__k"": 1}",band_gap,1
+11,LiNO3,FS1,Ridge,sqrt,0.7527967264696489,"{""regressor__model__alpha"": 1.0, ""regressor__selector__k"": 1}",band_gap,1
+12,Li2O2,FS1,Ridge,sqrt,0.8111863471868626,"{""regressor__model__alpha"": 0.01, ""regressor__selector__k"": 3}",band_gap;li_framework_electronegativity_difference;formation_energy_per_atom,3
+13,Li2O,FS1,Ridge,sqrt,0.7790839125185098,"{""regressor__model__alpha"": 1.0, ""regressor__selector__k"": 3}",band_gap;li_framework_electronegativity_difference;formation_energy_per_atom,3
+14,Li2S,FS1,Ridge,sqrt,0.8336438596777205,"{""regressor__model__alpha"": 1.0, ""regressor__selector__k"": 1}",band_gap,1
+15,Li3N,FS1,Ridge,sqrt,0.7702436895513396,"{""regressor__model__alpha"": 1.0, ""regressor__selector__k"": 1}",band_gap,1
+16,Li3P,FS1,Ridge,sqrt,0.8219815956650489,"{""regressor__model__alpha"": 1.0, ""regressor__selector__k"": 1}",band_gap,1
+17,Li2Se,FS1,Ridge,sqrt,0.8205568874035706,"{""regressor__model__alpha"": 1.0, ""regressor__selector__k"": 1}",band_gap,1
+18,LiF,FS1,Ridge,sqrt,0.7726902342377486,"{""regressor__model__alpha"": 0.01, ""regressor__selector__k"": 1}",band_gap,1
+19,LiC6,FS1,Ridge,sqrt,0.611269141051727,"{""regressor__model__alpha"": 1.0, ""regressor__selector__k"": 8}",band_gap;li_mean_coordination_number;li_x_bond_length_std;li_coordination_number_std;li_atomic_fraction;li_framework_electronegativity_difference;mean_framework_atomic_radius;formation_energy_per_atom,8
+20,Li2C2,FS1,Ridge,sqrt,0.7961953888780284,"{""regressor__model__alpha"": 1.0, ""regressor__selector__k"": 1}",band_gap,1
+21,Li2CO3,FS1,Ridge,sqrt,0.8321186307701488,"{""regressor__model__alpha"": 1.0, ""regressor__selector__k"": 1}",band_gap,1
+22,Li2C2O4,FS1,Ridge,sqrt,0.7460452860503926,"{""regressor__model__alpha"": 1.0, ""regressor__selector__k"": 1}",band_gap,1
+23,Li2C4O4,FS1,Ridge,sqrt,0.7981506970986522,"{""regressor__model__alpha"": 1.0, ""regressor__selector__k"": 1}",band_gap,1
+0,Li5FeO4,FS1,SVR_linear,sqrt,0.7765170817069229,"{""regressor__model__C"": 1.0, ""regressor__model__epsilon"": 0.2, ""regressor__selector__k"": 1}",band_gap,1
+1,Li6CoO4,FS1,SVR_linear,sqrt,0.6975228444271454,"{""regressor__model__C"": 1.0, ""regressor__model__epsilon"": 0.2, ""regressor__selector__k"": 1}",band_gap,1
+2,Li2NiO2,FS1,SVR_linear,sqrt,0.7895525551611264,"{""regressor__model__C"": 0.1, ""regressor__model__epsilon"": 0.2, ""regressor__selector__k"": 1}",band_gap,1
+3,Li2CuO2,FS1,SVR_linear,sqrt,0.7696263550752503,"{""regressor__model__C"": 0.1, ""regressor__model__epsilon"": 0.1, ""regressor__selector__k"": 1}",band_gap,1
+4,Li4SiO4,FS1,SVR_linear,sqrt,0.7842490808086071,"{""regressor__model__C"": 0.1, ""regressor__model__epsilon"": 0.2, ""regressor__selector__k"": 1}",band_gap,1
+5,Li6MnO4,FS1,SVR_linear,sqrt,0.6052805659066907,"{""regressor__model__C"": 1.0, ""regressor__model__epsilon"": 0.01, ""regressor__selector__k"": ""all""}",band_gap;li_mean_bader_charge;bulk_mean_elf;elf_high_fraction;elf_low_fraction;li_mean_coordination_number;normalized_li_x_distance;volume_per_li;density;volume_per_atom;mean_li_x_bond_length;li_x_bond_length_std;li_x_bond_length_range;li_coordination_number_std;li_atomic_fraction;li_framework_electronegativity_difference;mean_framework_atomic_radius;mean_atomic_number;mean_atomic_mass;framework_electronegativity_std;framework_oxygen_fraction;formation_energy_per_atom;energy_above_hull,23
+6,Li6ZnO4,FS1,SVR_linear,sqrt,0.8063097057200956,"{""regressor__model__C"": 0.1, ""regressor__model__epsilon"": 0.2, ""regressor__selector__k"": 1}",band_gap,1
+7,Li5AlO4,FS1,SVR_linear,sqrt,0.7960493100991721,"{""regressor__model__C"": 0.1, ""regressor__model__epsilon"": 0.2, ""regressor__selector__k"": 1}",band_gap,1
+8,Li2MoO3,FS1,SVR_linear,sqrt,0.7920288764052318,"{""regressor__model__C"": 1.0, ""regressor__model__epsilon"": 0.1, ""regressor__selector__k"": 1}",band_gap,1
+9,Li8ZrO6,FS1,SVR_linear,sqrt,0.7935686041071162,"{""regressor__model__C"": 1.0, ""regressor__model__epsilon"": 0.1, ""regressor__selector__k"": 1}",band_gap,1
+10,Li3BO3,FS1,SVR_linear,sqrt,0.7915903275306866,"{""regressor__model__C"": 1.0, ""regressor__model__epsilon"": 0.1, ""regressor__selector__k"": 1}",band_gap,1
+11,LiNO3,FS1,SVR_linear,sqrt,0.7164931449132704,"{""regressor__model__C"": 1.0, ""regressor__model__epsilon"": 0.1, ""regressor__selector__k"": 1}",band_gap,1
+12,Li2O2,FS1,SVR_linear,sqrt,0.7407440066565243,"{""regressor__model__C"": 0.1, ""regressor__model__epsilon"": 0.01, ""regressor__selector__k"": 8}",band_gap;elf_low_fraction;li_mean_coordination_number;mean_li_x_bond_length;li_coordination_number_std;li_framework_electronegativity_difference;mean_framework_atomic_radius;formation_energy_per_atom,8
+13,Li2O,FS1,SVR_linear,sqrt,0.7024326032397242,"{""regressor__model__C"": 100.0, ""regressor__model__epsilon"": 0.01, ""regressor__selector__k"": 3}",band_gap;li_framework_electronegativity_difference;formation_energy_per_atom,3
+14,Li2S,FS1,SVR_linear,sqrt,0.7816331201305384,"{""regressor__model__C"": 1.0, ""regressor__model__epsilon"": 0.1, ""regressor__selector__k"": 1}",band_gap,1
+15,Li3N,FS1,SVR_linear,sqrt,0.7058591188701254,"{""regressor__model__C"": 1.0, ""regressor__model__epsilon"": 0.2, ""regressor__selector__k"": 1}",band_gap,1
+16,Li3P,FS1,SVR_linear,sqrt,0.7713334387796449,"{""regressor__model__C"": 100.0, ""regressor__model__epsilon"": 0.1, ""regressor__selector__k"": 1}",band_gap,1
+17,Li2Se,FS1,SVR_linear,sqrt,0.7683622100264289,"{""regressor__model__C"": 0.1, ""regressor__model__epsilon"": 0.01, ""regressor__selector__k"": 1}",band_gap,1
+18,LiF,FS1,SVR_linear,sqrt,0.7773224363938424,"{""regressor__model__C"": 100.0, ""regressor__model__epsilon"": 0.01, ""regressor__selector__k"": 1}",band_gap,1
+19,LiC6,FS1,SVR_linear,sqrt,0.6040780505149506,"{""regressor__model__C"": 1.0, ""regressor__model__epsilon"": 0.2, ""regressor__selector__k"": 8}",band_gap;li_mean_coordination_number;li_x_bond_length_std;li_coordination_number_std;li_atomic_fraction;li_framework_electronegativity_difference;mean_framework_atomic_radius;formation_energy_per_atom,8
+20,Li2C2,FS1,SVR_linear,sqrt,0.758474595910967,"{""regressor__model__C"": 0.1, ""regressor__model__epsilon"": 0.01, ""regressor__selector__k"": 2}",band_gap;formation_energy_per_atom,2
+21,Li2CO3,FS1,SVR_linear,sqrt,0.8061963651825581,"{""regressor__model__C"": 0.1, ""regressor__model__epsilon"": 0.01, ""regressor__selector__k"": 1}",band_gap,1
+22,Li2C2O4,FS1,SVR_linear,sqrt,0.7437769706231101,"{""regressor__model__C"": 0.1, ""regressor__model__epsilon"": 0.01, ""regressor__selector__k"": 1}",band_gap,1
+23,Li2C4O4,FS1,SVR_linear,sqrt,0.7648925471362125,"{""regressor__model__C"": 0.1, ""regressor__model__epsilon"": 0.01, ""regressor__selector__k"": 1}",band_gap,1
+0,Li5FeO4,FS1,Ridge,log,0.9916594705062017,"{""regressor__model__alpha"": 1.0, ""regressor__selector__k"": 10}",band_gap;elf_high_fraction;elf_low_fraction;li_mean_coordination_number;normalized_li_x_distance;mean_li_x_bond_length;li_coordination_number_std;li_framework_electronegativity_difference;framework_oxygen_fraction;formation_energy_per_atom,10
+1,Li6CoO4,FS1,Ridge,log,0.8734315342207152,"{""regressor__model__alpha"": 1.0, ""regressor__selector__k"": 10}",band_gap;bulk_mean_elf;elf_low_fraction;li_mean_coordination_number;normalized_li_x_distance;mean_li_x_bond_length;li_coordination_number_std;li_framework_electronegativity_difference;framework_oxygen_fraction;formation_energy_per_atom,10
+2,Li2NiO2,FS1,Ridge,log,1.023644344874372,"{""regressor__model__alpha"": 10.0, ""regressor__selector__k"": 2}",band_gap;formation_energy_per_atom,2
+3,Li2CuO2,FS1,Ridge,log,1.0182325926589697,"{""regressor__model__alpha"": 1.0, ""regressor__selector__k"": 10}",band_gap;elf_high_fraction;elf_low_fraction;li_mean_coordination_number;normalized_li_x_distance;mean_li_x_bond_length;li_coordination_number_std;li_framework_electronegativity_difference;framework_oxygen_fraction;formation_energy_per_atom,10
+4,Li4SiO4,FS1,Ridge,log,0.9703018042881031,"{""regressor__model__alpha"": 10.0, ""regressor__selector__k"": 2}",band_gap;formation_energy_per_atom,2
+5,Li6MnO4,FS1,Ridge,log,0.947704057936706,"{""regressor__model__alpha"": 10.0, ""regressor__selector__k"": 3}",band_gap;li_mean_coordination_number;formation_energy_per_atom,3
+6,Li6ZnO4,FS1,Ridge,log,1.0022884629591506,"{""regressor__model__alpha"": 10.0, ""regressor__selector__k"": 1}",band_gap,1
+7,Li5AlO4,FS1,Ridge,log,0.9632532996422676,"{""regressor__model__alpha"": 10.0, ""regressor__selector__k"": 2}",band_gap;formation_energy_per_atom,2
+8,Li2MoO3,FS1,Ridge,log,1.05632356054147,"{""regressor__model__alpha"": 10.0, ""regressor__selector__k"": 1}",band_gap,1
+9,Li8ZrO6,FS1,Ridge,log,1.041269461966539,"{""regressor__model__alpha"": 10.0, ""regressor__selector__k"": 2}",band_gap;formation_energy_per_atom,2
+10,Li3BO3,FS1,Ridge,log,0.9819070493995603,"{""regressor__model__alpha"": 10.0, ""regressor__selector__k"": 2}",band_gap;formation_energy_per_atom,2
+11,LiNO3,FS1,Ridge,log,0.8898191728383619,"{""regressor__model__alpha"": 1.0, ""regressor__selector__k"": 2}",band_gap;formation_energy_per_atom,2
+12,Li2O2,FS1,Ridge,log,0.9237303294237897,"{""regressor__model__alpha"": 10.0, ""regressor__selector__k"": 2}",band_gap;formation_energy_per_atom,2
+13,Li2O,FS1,Ridge,log,0.8996030634711059,"{""regressor__model__alpha"": 10.0, ""regressor__selector__k"": ""all""}",band_gap;li_mean_bader_charge;bulk_mean_elf;elf_high_fraction;elf_low_fraction;li_mean_coordination_number;normalized_li_x_distance;volume_per_li;density;volume_per_atom;mean_li_x_bond_length;li_x_bond_length_std;li_x_bond_length_range;li_coordination_number_std;li_atomic_fraction;li_framework_electronegativity_difference;mean_framework_atomic_radius;mean_atomic_number;mean_atomic_mass;framework_electronegativity_std;framework_oxygen_fraction;formation_energy_per_atom;energy_above_hull,23
+14,Li2S,FS1,Ridge,log,0.9270538476328433,"{""regressor__model__alpha"": 10.0, ""regressor__selector__k"": 2}",band_gap;formation_energy_per_atom,2
+15,Li3N,FS1,Ridge,log,1.0104842854835103,"{""regressor__model__alpha"": 1.0, ""regressor__selector__k"": 10}",band_gap;elf_low_fraction;li_mean_coordination_number;normalized_li_x_distance;volume_per_li;mean_li_x_bond_length;li_framework_electronegativity_difference;mean_framework_atomic_radius;framework_oxygen_fraction;formation_energy_per_atom,10
+16,Li3P,FS1,Ridge,log,1.008560576528005,"{""regressor__model__alpha"": 1.0, ""regressor__selector__k"": 5}",band_gap;elf_high_fraction;li_mean_coordination_number;li_framework_electronegativity_difference;formation_energy_per_atom,5
+17,Li2Se,FS1,Ridge,log,0.9627235649733621,"{""regressor__model__alpha"": 10.0, ""regressor__selector__k"": 2}",band_gap;formation_energy_per_atom,2
+18,LiF,FS1,Ridge,log,0.8741675520798486,"{""regressor__model__alpha"": 1.0, ""regressor__selector__k"": 4}",band_gap;li_mean_coordination_number;framework_oxygen_fraction;formation_energy_per_atom,4
+19,LiC6,FS1,Ridge,log,0.7147512294581241,"{""regressor__model__alpha"": 1.0, ""regressor__selector__k"": 6}",band_gap;li_mean_coordination_number;li_x_bond_length_std;li_coordination_number_std;li_atomic_fraction;formation_energy_per_atom,6
+20,Li2C2,FS1,Ridge,log,0.9283253372265985,"{""regressor__model__alpha"": 10.0, ""regressor__selector__k"": 2}",band_gap;formation_energy_per_atom,2
+21,Li2CO3,FS1,Ridge,log,0.8993667895566159,"{""regressor__model__alpha"": 1.0, ""regressor__selector__k"": 1}",band_gap,1
+22,Li2C2O4,FS1,Ridge,log,0.8182127594308846,"{""regressor__model__alpha"": 1.0, ""regressor__selector__k"": 1}",band_gap,1
+23,Li2C4O4,FS1,Ridge,log,0.877369524927337,"{""regressor__model__alpha"": 1.0, ""regressor__selector__k"": 1}",band_gap,1
+0,Li5FeO4,FS1,SVR_linear,log,0.9099421048723043,"{""regressor__model__C"": 0.1, ""regressor__model__epsilon"": 0.2, ""regressor__selector__k"": 1}",band_gap,1
+1,Li6CoO4,FS1,SVR_linear,log,0.8063797101006778,"{""regressor__model__C"": 0.1, ""regressor__model__epsilon"": 0.2, ""regressor__selector__k"": 2}",band_gap;formation_energy_per_atom,2
+2,Li2NiO2,FS1,SVR_linear,log,0.9044884587573522,"{""regressor__model__C"": 0.1, ""regressor__model__epsilon"": 0.2, ""regressor__selector__k"": 1}",band_gap,1
+3,Li2CuO2,FS1,SVR_linear,log,0.8897820136832341,"{""regressor__model__C"": 0.1, ""regressor__model__epsilon"": 0.1, ""regressor__selector__k"": 2}",band_gap;formation_energy_per_atom,2
+4,Li4SiO4,FS1,SVR_linear,log,0.9000953764422501,"{""regressor__model__C"": 0.1, ""regressor__model__epsilon"": 0.1, ""regressor__selector__k"": 1}",band_gap,1
+5,Li6MnO4,FS1,SVR_linear,log,0.8363166052387667,"{""regressor__model__C"": 1.0, ""regressor__model__epsilon"": 0.1, ""regressor__selector__k"": ""all""}",band_gap;li_mean_bader_charge;bulk_mean_elf;elf_high_fraction;elf_low_fraction;li_mean_coordination_number;normalized_li_x_distance;volume_per_li;density;volume_per_atom;mean_li_x_bond_length;li_x_bond_length_std;li_x_bond_length_range;li_coordination_number_std;li_atomic_fraction;li_framework_electronegativity_difference;mean_framework_atomic_radius;mean_atomic_number;mean_atomic_mass;framework_electronegativity_std;framework_oxygen_fraction;formation_energy_per_atom;energy_above_hull,23
+6,Li6ZnO4,FS1,SVR_linear,log,0.9481701050846472,"{""regressor__model__C"": 0.1, ""regressor__model__epsilon"": 0.1, ""regressor__selector__k"": 1}",band_gap,1
+7,Li5AlO4,FS1,SVR_linear,log,0.8711496903588255,"{""regressor__model__C"": 0.1, ""regressor__model__epsilon"": 0.2, ""regressor__selector__k"": 2}",band_gap;formation_energy_per_atom,2
+8,Li2MoO3,FS1,SVR_linear,log,0.9357053997078129,"{""regressor__model__C"": 0.1, ""regressor__model__epsilon"": 0.2, ""regressor__selector__k"": 1}",band_gap,1
+9,Li8ZrO6,FS1,SVR_linear,log,0.9317153651755172,"{""regressor__model__C"": 100.0, ""regressor__model__epsilon"": 0.01, ""regressor__selector__k"": 2}",band_gap;formation_energy_per_atom,2
+10,Li3BO3,FS1,SVR_linear,log,0.8702055030023697,"{""regressor__model__C"": 0.1, ""regressor__model__epsilon"": 0.2, ""regressor__selector__k"": 2}",band_gap;formation_energy_per_atom,2
+11,LiNO3,FS1,SVR_linear,log,0.8095636890711951,"{""regressor__model__C"": 0.1, ""regressor__model__epsilon"": 0.1, ""regressor__selector__k"": 2}",band_gap;formation_energy_per_atom,2
+12,Li2O2,FS1,SVR_linear,log,0.8114171013193097,"{""regressor__model__C"": 0.1, ""regressor__model__epsilon"": 0.01, ""regressor__selector__k"": 5}",band_gap;li_mean_coordination_number;li_framework_electronegativity_difference;framework_oxygen_fraction;formation_energy_per_atom,5
+13,Li2O,FS1,SVR_linear,log,0.7780898127793355,"{""regressor__model__C"": 1.0, ""regressor__model__epsilon"": 0.01, ""regressor__selector__k"": 2}",band_gap;formation_energy_per_atom,2
+14,Li2S,FS1,SVR_linear,log,0.8302917366722113,"{""regressor__model__C"": 0.1, ""regressor__model__epsilon"": 0.1, ""regressor__selector__k"": 2}",band_gap;formation_energy_per_atom,2
+15,Li3N,FS1,SVR_linear,log,0.8881746064492335,"{""regressor__model__C"": 0.1, ""regressor__model__epsilon"": 0.1, ""regressor__selector__k"": 8}",band_gap;elf_low_fraction;li_mean_coordination_number;normalized_li_x_distance;volume_per_li;mean_li_x_bond_length;li_framework_electronegativity_difference;formation_energy_per_atom,8
+16,Li3P,FS1,SVR_linear,log,0.9049302315466197,"{""regressor__model__C"": 0.1, ""regressor__model__epsilon"": 0.1, ""regressor__selector__k"": 2}",band_gap;formation_energy_per_atom,2
+17,Li2Se,FS1,SVR_linear,log,0.872492124443163,"{""regressor__model__C"": 0.1, ""regressor__model__epsilon"": 0.1, ""regressor__selector__k"": 2}",band_gap;formation_energy_per_atom,2
+18,LiF,FS1,SVR_linear,log,0.8774177716680199,"{""regressor__model__C"": 0.1, ""regressor__model__epsilon"": 0.1, ""regressor__selector__k"": 4}",band_gap;li_mean_coordination_number;framework_oxygen_fraction;formation_energy_per_atom,4
+19,LiC6,FS1,SVR_linear,log,0.6819269851276824,"{""regressor__model__C"": 100.0, ""regressor__model__epsilon"": 0.2, ""regressor__selector__k"": 6}",band_gap;li_mean_coordination_number;li_x_bond_length_std;li_coordination_number_std;li_atomic_fraction;formation_energy_per_atom,6
+20,Li2C2,FS1,SVR_linear,log,0.8241750715862517,"{""regressor__model__C"": 0.1, ""regressor__model__epsilon"": 0.1, ""regressor__selector__k"": 2}",band_gap;formation_energy_per_atom,2
+21,Li2CO3,FS1,SVR_linear,log,0.8851122635502007,"{""regressor__model__C"": 1.0, ""regressor__model__epsilon"": 0.2, ""regressor__selector__k"": 1}",band_gap,1
+22,Li2C2O4,FS1,SVR_linear,log,0.8294767460639513,"{""regressor__model__C"": 1.0, ""regressor__model__epsilon"": 0.2, ""regressor__selector__k"": 1}",band_gap,1
+23,Li2C4O4,FS1,SVR_linear,log,0.8658651697209173,"{""regressor__model__C"": 100.0, ""regressor__model__epsilon"": 0.1, ""regressor__selector__k"": 1}",band_gap,1

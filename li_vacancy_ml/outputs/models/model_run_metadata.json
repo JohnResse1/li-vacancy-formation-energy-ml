@@ -1,0 +1,265 @@
+{
+  "random_seed": 42,
+  "inner_cv": "KFold(n_splits=5, shuffle=True, random_state=42)",
+  "outer_cv": "LeaveOneOut over material rows",
+  "target": "Li_vacancy_formation_energy",
+  "n_materials": 24,
+  "experiments": [
+    {
+      "name": "M1",
+      "label": "Eg only",
+      "features": [
+        "band_gap"
+      ]
+    },
+    {
+      "name": "M2",
+      "label": "All electronic",
+      "features": [
+        "band_gap",
+        "li_mean_bader_charge",
+        "bulk_mean_elf",
+        "elf_high_fraction",
+        "elf_low_fraction"
+      ]
+    },
+    {
+      "name": "M3",
+      "label": "Composition + geometry",
+      "features": [
+        "li_atomic_fraction",
+        "li_framework_electronegativity_difference",
+        "mean_framework_atomic_radius",
+        "mean_atomic_number",
+        "mean_atomic_mass",
+        "framework_electronegativity_std",
+        "framework_oxygen_fraction",
+        "li_mean_coordination_number",
+        "normalized_li_x_distance",
+        "volume_per_li",
+        "density",
+        "volume_per_atom",
+        "mean_li_x_bond_length",
+        "li_x_bond_length_std",
+        "li_x_bond_length_range",
+        "li_coordination_number_std"
+      ]
+    },
+    {
+      "name": "M4",
+      "label": "Composition + geometry + Eg",
+      "features": [
+        "li_atomic_fraction",
+        "li_framework_electronegativity_difference",
+        "mean_framework_atomic_radius",
+        "mean_atomic_number",
+        "mean_atomic_mass",
+        "framework_electronegativity_std",
+        "framework_oxygen_fraction",
+        "li_mean_coordination_number",
+        "normalized_li_x_distance",
+        "volume_per_li",
+        "density",
+        "volume_per_atom",
+        "mean_li_x_bond_length",
+        "li_x_bond_length_std",
+        "li_x_bond_length_range",
+        "li_coordination_number_std",
+        "band_gap"
+      ]
+    },
+    {
+      "name": "M5",
+      "label": "Composition + geometry + all electronic",
+      "features": [
+        "li_atomic_fraction",
+        "li_framework_electronegativity_difference",
+        "mean_framework_atomic_radius",
+        "mean_atomic_number",
+        "mean_atomic_mass",
+        "framework_electronegativity_std",
+        "framework_oxygen_fraction",
+        "li_mean_coordination_number",
+        "normalized_li_x_distance",
+        "volume_per_li",
+        "density",
+        "volume_per_atom",
+        "mean_li_x_bond_length",
+        "li_x_bond_length_std",
+        "li_x_bond_length_range",
+        "li_coordination_number_std",
+        "band_gap",
+        "li_mean_bader_charge",
+        "bulk_mean_elf",
+        "elf_high_fraction",
+        "elf_low_fraction"
+      ]
+    },
+    {
+      "name": "M6",
+      "label": "All intrinsic features",
+      "features": [
+        "band_gap",
+        "li_mean_bader_charge",
+        "bulk_mean_elf",
+        "elf_high_fraction",
+        "elf_low_fraction",
+        "li_mean_coordination_number",
+        "normalized_li_x_distance",
+        "volume_per_li",
+        "density",
+        "volume_per_atom",
+        "mean_li_x_bond_length",
+        "li_x_bond_length_std",
+        "li_x_bond_length_range",
+        "li_coordination_number_std",
+        "li_atomic_fraction",
+        "li_framework_electronegativity_difference",
+        "mean_framework_atomic_radius",
+        "mean_atomic_number",
+        "mean_atomic_mass",
+        "framework_electronegativity_std",
+        "framework_oxygen_fraction",
+        "formation_energy_per_atom",
+        "energy_above_hull"
+      ]
+    },
+    {
+      "name": "M7",
+      "label": "Thermodynamic only",
+      "features": [
+        "formation_energy_per_atom",
+        "energy_above_hull"
+      ]
+    },
+    {
+      "name": "M8",
+      "label": "Composition + geometry + thermodynamics",
+      "features": [
+        "li_atomic_fraction",
+        "li_framework_electronegativity_difference",
+        "mean_framework_atomic_radius",
+        "mean_atomic_number",
+        "mean_atomic_mass",
+        "framework_electronegativity_std",
+        "framework_oxygen_fraction",
+        "li_mean_coordination_number",
+        "normalized_li_x_distance",
+        "volume_per_li",
+        "density",
+        "volume_per_atom",
+        "mean_li_x_bond_length",
+        "li_x_bond_length_std",
+        "li_x_bond_length_range",
+        "li_coordination_number_std",
+        "formation_energy_per_atom",
+        "energy_above_hull"
+      ]
+    },
+    {
+      "name": "M9",
+      "label": "M8 + Eg",
+      "features": [
+        "li_atomic_fraction",
+        "li_framework_electronegativity_difference",
+        "mean_framework_atomic_radius",
+        "mean_atomic_number",
+        "mean_atomic_mass",
+        "framework_electronegativity_std",
+        "framework_oxygen_fraction",
+        "li_mean_coordination_number",
+        "normalized_li_x_distance",
+        "volume_per_li",
+        "density",
+        "volume_per_atom",
+        "mean_li_x_bond_length",
+        "li_x_bond_length_std",
+        "li_x_bond_length_range",
+        "li_coordination_number_std",
+        "formation_energy_per_atom",
+        "energy_above_hull",
+        "band_gap"
+      ]
+    },
+    {
+      "name": "M10",
+      "label": "M8 + all electronic",
+      "features": [
+        "li_atomic_fraction",
+        "li_framework_electronegativity_difference",
+        "mean_framework_atomic_radius",
+        "mean_atomic_number",
+        "mean_atomic_mass",
+        "framework_electronegativity_std",
+        "framework_oxygen_fraction",
+        "li_mean_coordination_number",
+        "normalized_li_x_distance",
+        "volume_per_li",
+        "density",
+        "volume_per_atom",
+        "mean_li_x_bond_length",
+        "li_x_bond_length_std",
+        "li_x_bond_length_range",
+        "li_coordination_number_std",
+        "formation_energy_per_atom",
+        "energy_above_hull",
+        "band_gap",
+        "li_mean_bader_charge",
+        "bulk_mean_elf",
+        "elf_high_fraction",
+        "elf_low_fraction"
+      ]
+    },
+    {
+      "name": "M11",
+      "label": "Bader + ELF",
+      "features": [
+        "li_mean_bader_charge",
+        "bulk_mean_elf",
+        "elf_high_fraction",
+        "elf_low_fraction"
+      ]
+    },
+    {
+      "name": "M12",
+      "label": "Eg + Bader + ELF",
+      "features": [
+        "band_gap",
+        "li_mean_bader_charge",
+        "bulk_mean_elf",
+        "elf_high_fraction",
+        "elf_low_fraction"
+      ]
+    },
+    {
+      "name": "M6_control",
+      "label": "All intrinsic + vacancy concentration control",
+      "features": [
+        "band_gap",
+        "li_mean_bader_charge",
+        "bulk_mean_elf",
+        "elf_high_fraction",
+        "elf_low_fraction",
+        "li_mean_coordination_number",
+        "normalized_li_x_distance",
+        "volume_per_li",
+        "density",
+        "volume_per_atom",
+        "mean_li_x_bond_length",
+        "li_x_bond_length_std",
+        "li_x_bond_length_range",
+        "li_coordination_number_std",
+        "li_atomic_fraction",
+        "li_framework_electronegativity_difference",
+        "mean_framework_atomic_radius",
+        "mean_atomic_number",
+        "mean_atomic_mass",
+        "framework_electronegativity_std",
+        "framework_oxygen_fraction",
+        "formation_energy_per_atom",
+        "energy_above_hull",
+        "vacancy_concentration"
+      ]
+    }
+  ]
+}

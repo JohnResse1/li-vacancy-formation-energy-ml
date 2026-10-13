@@ -1,0 +1,23 @@
+pair,first_material,second_material,rationale,feature,first_value,second_value,first_minus_second
+Li6CoO4 vs Li6ZnO4,Li6CoO4,Li6ZnO4,same Li6MO4 oxygen framework; Co/Zn contrast,band_gap,2.4,3.51,-1.1099999999999999
+Li6CoO4 vs Li6ZnO4,Li6CoO4,Li6ZnO4,same Li6MO4 oxygen framework; Co/Zn contrast,Li_vacancy_formation_energy,1.36774,3.60318,-2.23544
+Li6CoO4 vs Li6ZnO4,Li6CoO4,Li6ZnO4,same Li6MO4 oxygen framework; Co/Zn contrast,li_mean_bader_charge,0.839893041666667,0.901711708333333,-0.06181866666666602
+Li6CoO4 vs Li6ZnO4,Li6CoO4,Li6ZnO4,same Li6MO4 oxygen framework; Co/Zn contrast,bulk_mean_elf,0.2751,0.2798,-0.004699999999999982
+Li6CoO4 vs Li6ZnO4,Li6CoO4,Li6ZnO4,same Li6MO4 oxygen framework; Co/Zn contrast,elf_high_fraction,6.29,6.38,-0.08999999999999986
+Li6CoO4 vs Li6ZnO4,Li6CoO4,Li6ZnO4,same Li6MO4 oxygen framework; Co/Zn contrast,elf_low_fraction,58.42556423611111,57.58463541666659,0.8409288194445139
+Li6CoO4 vs Li6ZnO4,Li6CoO4,Li6ZnO4,same Li6MO4 oxygen framework; Co/Zn contrast,li_mean_coordination_number,4.0,4.0,0.0
+Li6CoO4 vs Li6ZnO4,Li6CoO4,Li6ZnO4,same Li6MO4 oxygen framework; Co/Zn contrast,normalized_li_x_distance,1.0216035521771085,1.021441740117021,0.00016181206008747395
+Li6CoO4 vs Li6ZnO4,Li6CoO4,Li6ZnO4,same Li6MO4 oxygen framework; Co/Zn contrast,volume_per_li,16.09294263685673,16.115714485486066,-0.022771848629336233
+Li6CoO4 vs Li6ZnO4,Li6CoO4,Li6ZnO4,same Li6MO4 oxygen framework; Co/Zn contrast,formation_energy_per_atom,-1.939,-2.036,0.09699999999999998
+Li6CoO4 vs Li6ZnO4,Li6CoO4,Li6ZnO4,same Li6MO4 oxygen framework; Co/Zn contrast,energy_above_hull,0.0,0.0,0.0
+Li5FeO4 vs Li5AlO4,Li5FeO4,Li5AlO4,same Li5MO4 oxygen framework; Fe/Al contrast,band_gap,3.05,4.66,-1.6100000000000003
+Li5FeO4 vs Li5AlO4,Li5FeO4,Li5AlO4,same Li5MO4 oxygen framework; Fe/Al contrast,Li_vacancy_formation_energy,2.91205,4.303,-1.3909500000000001
+Li5FeO4 vs Li5AlO4,Li5FeO4,Li5AlO4,same Li5MO4 oxygen framework; Fe/Al contrast,li_mean_bader_charge,0.65161,0.6673482,-0.015738199999999924
+Li5FeO4 vs Li5AlO4,Li5FeO4,Li5AlO4,same Li5MO4 oxygen framework; Fe/Al contrast,bulk_mean_elf,0.2743,0.301,-0.0267
+Li5FeO4 vs Li5AlO4,Li5FeO4,Li5AlO4,same Li5MO4 oxygen framework; Fe/Al contrast,elf_high_fraction,6.52,7.66,-1.1400000000000006
+Li5FeO4 vs Li5AlO4,Li5FeO4,Li5AlO4,same Li5MO4 oxygen framework; Fe/Al contrast,elf_low_fraction,56.5643310546875,53.009033203125,3.5552978515625
+Li5FeO4 vs Li5AlO4,Li5FeO4,Li5AlO4,same Li5MO4 oxygen framework; Fe/Al contrast,li_mean_coordination_number,4.0,3.8,0.20000000000000018
+Li5FeO4 vs Li5AlO4,Li5FeO4,Li5AlO4,same Li5MO4 oxygen framework; Fe/Al contrast,normalized_li_x_distance,1.017728148256245,1.0128560807273108,0.00487206752893421
+Li5FeO4 vs Li5AlO4,Li5FeO4,Li5AlO4,same Li5MO4 oxygen framework; Fe/Al contrast,volume_per_li,18.7997149600234,18.072756556553916,0.7269584034694851
+Li5FeO4 vs Li5AlO4,Li5FeO4,Li5AlO4,same Li5MO4 oxygen framework; Fe/Al contrast,formation_energy_per_atom,-2.042,-2.496,0.4540000000000002
+Li5FeO4 vs Li5AlO4,Li5FeO4,Li5AlO4,same Li5MO4 oxygen framework; Fe/Al contrast,energy_above_hull,0.0,0.0,0.0

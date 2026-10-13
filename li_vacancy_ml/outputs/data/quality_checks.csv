@@ -1,0 +1,74 @@
+check,value,status,details
+sample_count,24,PASS,Expected 24 material rows.
+unique_material_names,24,PASS,Material labels are unique.
+duplicate_material_records,0,PASS,Duplicate material labels checked.
+duplicate_mp_ids,0,PASS,MP-ID uniqueness checked.
+duplicate_full_records,0,PASS,Full canonical records checked.
+target_numeric_complete,24,PASS,Target is parsed from the explicit Y column.
+numeric_formation_energy_per_atom,0,PASS,Missing or non-numeric values in formation_energy_per_atom: 0.
+numeric_li_mean_bader_charge,0,PASS,Missing or non-numeric values in li_mean_bader_charge: 0.
+numeric_li_mean_coordination_number,0,PASS,Missing or non-numeric values in li_mean_coordination_number: 0.
+numeric_normalized_li_x_distance,0,PASS,Missing or non-numeric values in normalized_li_x_distance: 0.
+numeric_volume_per_li,0,PASS,Missing or non-numeric values in volume_per_li: 0.
+numeric_li_framework_electronegativity_difference,0,PASS,Missing or non-numeric values in li_framework_electronegativity_difference: 0.
+numeric_band_gap,0,PASS,Missing or non-numeric values in band_gap: 0.
+numeric_energy_above_hull,0,PASS,Missing or non-numeric values in energy_above_hull: 0.
+numeric_li_atomic_fraction,0,PASS,Missing or non-numeric values in li_atomic_fraction: 0.
+numeric_density,0,PASS,Missing or non-numeric values in density: 0.
+numeric_volume_per_atom,0,PASS,Missing or non-numeric values in volume_per_atom: 0.
+numeric_mean_li_x_bond_length,0,PASS,Missing or non-numeric values in mean_li_x_bond_length: 0.
+numeric_li_x_bond_length_std,0,PASS,Missing or non-numeric values in li_x_bond_length_std: 0.
+numeric_li_x_bond_length_range,0,PASS,Missing or non-numeric values in li_x_bond_length_range: 0.
+numeric_li_coordination_number_std,0,PASS,Missing or non-numeric values in li_coordination_number_std: 0.
+numeric_mean_framework_electronegativity,0,PASS,Missing or non-numeric values in mean_framework_electronegativity: 0.
+numeric_mean_framework_atomic_radius,0,PASS,Missing or non-numeric values in mean_framework_atomic_radius: 0.
+numeric_mean_atomic_number,0,PASS,Missing or non-numeric values in mean_atomic_number: 0.
+numeric_mean_atomic_mass,0,PASS,Missing or non-numeric values in mean_atomic_mass: 0.
+numeric_bulk_mean_elf,0,PASS,Missing or non-numeric values in bulk_mean_elf: 0.
+numeric_elf_high_fraction,0,PASS,Missing or non-numeric values in elf_high_fraction: 0.
+numeric_elf_low_fraction,0,PASS,Missing or non-numeric values in elf_low_fraction: 0.
+numeric_framework_electronegativity_std,0,PASS,Missing or non-numeric values in framework_electronegativity_std: 0.
+numeric_framework_oxygen_fraction,0,PASS,Missing or non-numeric values in framework_oxygen_fraction: 0.
+numeric_vacancy_concentration,0,PASS,Missing or non-numeric values in vacancy_concentration: 0.
+numeric_li_mean_charge_loss,0,PASS,Missing or non-numeric values in li_mean_charge_loss: 0.
+numeric_vacancy_concentration_percent,0,PASS,Missing or non-numeric values in vacancy_concentration_percent: 0.
+numeric_Li_vacancy_formation_energy,0,PASS,Missing or non-numeric values in Li_vacancy_formation_energy: 0.
+constant_formation_energy_per_atom,24,PASS,A constant descriptor cannot contribute predictive information.
+constant_li_mean_bader_charge,24,PASS,A constant descriptor cannot contribute predictive information.
+constant_li_mean_coordination_number,8,PASS,A constant descriptor cannot contribute predictive information.
+constant_normalized_li_x_distance,24,PASS,A constant descriptor cannot contribute predictive information.
+constant_volume_per_li,24,PASS,A constant descriptor cannot contribute predictive information.
+constant_li_framework_electronegativity_difference,21,PASS,A constant descriptor cannot contribute predictive information.
+constant_band_gap,23,PASS,A constant descriptor cannot contribute predictive information.
+constant_energy_above_hull,7,PASS,A constant descriptor cannot contribute predictive information.
+constant_li_atomic_fraction,12,PASS,A constant descriptor cannot contribute predictive information.
+constant_density,24,PASS,A constant descriptor cannot contribute predictive information.
+constant_volume_per_atom,24,PASS,A constant descriptor cannot contribute predictive information.
+constant_mean_li_x_bond_length,24,PASS,A constant descriptor cannot contribute predictive information.
+constant_li_x_bond_length_std,24,PASS,A constant descriptor cannot contribute predictive information.
+constant_li_x_bond_length_range,22,PASS,A constant descriptor cannot contribute predictive information.
+constant_li_coordination_number_std,5,PASS,A constant descriptor cannot contribute predictive information.
+constant_mean_framework_electronegativity,21,PASS,A constant descriptor cannot contribute predictive information.
+constant_mean_framework_atomic_radius,21,PASS,A constant descriptor cannot contribute predictive information.
+constant_mean_atomic_number,21,PASS,A constant descriptor cannot contribute predictive information.
+constant_mean_atomic_mass,24,PASS,A constant descriptor cannot contribute predictive information.
+constant_bulk_mean_elf,24,PASS,A constant descriptor cannot contribute predictive information.
+constant_elf_high_fraction,24,PASS,A constant descriptor cannot contribute predictive information.
+constant_elf_low_fraction,24,PASS,A constant descriptor cannot contribute predictive information.
+constant_framework_electronegativity_std,17,PASS,A constant descriptor cannot contribute predictive information.
+constant_framework_oxygen_fraction,7,PASS,A constant descriptor cannot contribute predictive information.
+constant_vacancy_concentration,4,PASS,A constant descriptor cannot contribute predictive information.
+constant_li_mean_charge_loss,24,PASS,A constant descriptor cannot contribute predictive information.
+constant_vacancy_concentration_percent,4,PASS,A constant descriptor cannot contribute predictive information.
+physical_target,0,PASS,neutral vacancy formation energy >= 0 eV in this dataset; failed materials: none.
+physical_band_gap,0,PASS,band gap >= 0 eV; failed materials: none.
+physical_li_mean_bader_charge,0,PASS,positive Li charge loss; failed materials: none.
+physical_li_atomic_fraction,0,PASS,0 < Li atomic fraction < 1; failed materials: none.
+physical_density,0,PASS,density > 0; failed materials: none.
+physical_volume_per_atom,0,PASS,volume per atom > 0; failed materials: none.
+physical_volume_per_li,0,PASS,volume per Li > 0; failed materials: none.
+physical_bulk_mean_elf,0,PASS,0 <= mean ELF <= 1; failed materials: none.
+physical_elf_high_fraction,0,PASS,0 <= ELF high fraction <= 100 percent; failed materials: none.
+physical_elf_low_fraction,0,PASS,0 <= ELF low fraction <= 100 percent; failed materials: none.
+physical_framework_oxygen_fraction,0,PASS,0 <= framework O fraction <= 1; failed materials: none.
+physical_vacancy_concentration,0,PASS,0 <= nominal vacancy concentration <= 100 percent; failed materials: none.

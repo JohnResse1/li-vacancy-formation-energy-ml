@@ -1,0 +1,14 @@
+{
+  "random_seed": 42,
+  "bootstrap_replicates": 2000,
+  "coefficient_bootstrap_replicates": 500,
+  "inner_cv_folds": 5,
+  "input_excel": "data/original/CIJ-24种补锂材料_核心候选描述符矩阵.xlsx",
+  "input_pdf": "data/original/24种锂基材料_Bader_ELF与Li空位形成能计算报告.pdf",
+  "output_root": "outputs",
+  "target_column": "Y 最低中性Li空位形成能 E_f(V_Li^0) (eV)",
+  "run_group_cv": true,
+  "run_sensitivity_experiments": true,
+  "target_transforms": ["identity", "sqrt", "log"],
+  "subset_k_values": [1, 2, 3, 4, 5, 6, 8, 10, "all"]
+}

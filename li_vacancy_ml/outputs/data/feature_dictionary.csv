@@ -1,0 +1,29 @@
+canonical_name,original_column,group,subgroup,unit,physical_meaning,source,status,notes
+formation_energy_per_atom,"核心1 Formation energy / atom, Ef (eV/atom)",T,thermodynamic,eV/atom,Bulk formation energy per atom,DFT / Materials Project,main-available,
+li_mean_bader_charge,"核心2 Li平均Bader电荷, qLi (e)",E,Bader,e,Mean Li Bader charge loss qLi,DFT charge density + Bader,main-available,
+li_mean_coordination_number,"核心3 Li平均配位数, CN_Li",G,coordination,dimensionless,Mean Li coordination number,CIF structure analysis,main-available,
+normalized_li_x_distance,"核心4 归一化Li–X距离, d_norm",G,bond geometry,dimensionless,Li-X distance divided by the sum of tabulated radii,CIF + atomic/ionic radius table,main-available,
+volume_per_li,"核心5 每Li对应体积, V/N_Li (Å³/Li)",G,volume,Å^3/Li,Unit-cell volume per Li atom,CIF-derived,main-available,
+li_framework_electronegativity_difference,"核心6 Li–骨架电负性差, Δχ",C,electronegativity,Pauling scale,Framework mean electronegativity minus Li electronegativity,Formula/CIF + electronegativity table,main-available,
+band_gap,"核心7 Band gap, Eg (eV)",E,band gap,eV,Electronic band gap,DFT / Materials Project,main-available,
+energy_above_hull,"候选1 Energy above hull, E_hull (eV/atom)",T,phase stability,eV/atom,Energy above the competing-phase hull,DFT database + phase-diagram postprocessing / MP,main-available,
+li_atomic_fraction,"候选2 Li atomic fraction, x_Li",C,stoichiometry,fraction,Li atoms divided by total atoms,Chemical formula / CIF,main-available,
+density,"候选3 Density, ρ (g/cm³)",G,bulk geometry,g/cm^3,Crystal density,CIF-derived / MP,main-available,
+volume_per_atom,"候选4 Volume / atom, V/N_atom (Å³/atom)",G,volume,Å^3/atom,Unit-cell volume per atom,CIF-derived,main-available,
+mean_li_x_bond_length,"候选5 平均Li–X键长, d̄_Li-X (Å)",G,bond geometry,Å,Mean nearest-neighbor Li-X bond length,CIF structure analysis,main-available,
+li_x_bond_length_std,"候选6 Li–X键长标准差, σ_d (Å)",G,bond geometry,Å,Standard deviation of nearest-neighbor Li-X distances,CIF structure analysis,main-available,
+li_x_bond_length_range,"候选7 Li–X键长范围, Δd (Å)",G,bond geometry,Å,Maximum minus minimum nearest-neighbor Li-X distance,CIF structure analysis,main-available,
+li_coordination_number_std,"候选8 Li配位数标准差, σ_CN",G,coordination,dimensionless,Standard deviation of Li coordination numbers,CIF structure analysis,main-available,
+mean_framework_electronegativity,"候选9 平均框架电负性, χ̄_framework",C,electronegativity,Pauling scale,Framework electronegativity weighted by non-Li atom fraction,Chemical formula + electronegativity table,redundant-audit-only,Affine transform of li_framework_electronegativity_difference using χ(Li)=0.98; excluded from main matrix.
+mean_framework_atomic_radius,"候选10 平均框架原子半径, r̄_framework",C,composition,Å,Mean framework atomic radius,Chemical formula + elemental radius table,main-available,
+mean_atomic_number,"候选11 平均原子序数, Z̄",C,composition,dimensionless,Mean atomic number over all atoms,Chemical formula + periodic table,main-available,
+mean_atomic_mass,"候选12 平均原子质量, M̄ (g/mol-atom)",C,composition,g/mol-atom,Mean atomic mass over all atoms,Chemical formula + atomic-mass table,main-available,
+bulk_mean_elf,候选13 Bulk平均ELF (3D),E,ELF,dimensionless,Mean three-dimensional bulk ELF,Bulk ELFCAR grid,main-available,
+elf_high_fraction,候选14 ELF≥0.8体积分数 (%),E,ELF,%,Volume fraction with ELF >= 0.8,Bulk ELFCAR grid,main-available,
+elf_low_fraction,候选15 ELF≤0.2体积分数 (%),E,ELF,%,Volume fraction with ELF <= 0.2,Bulk ELFCAR grid,main-available,
+framework_electronegativity_std,候选16 骨架电负性标准差 σ_χ,C,electronegativity,Pauling scale,Population standard deviation of framework electronegativities,Reconstructed from formula and Pauling electronegativities,main-available,Reconstructed independently; cached workbook values agree within floating-point tolerance.
+framework_oxygen_fraction,候选17 框架含氧原子分数 xO_fw,C,stoichiometry,fraction,O atoms divided by all non-Li framework atoms,Reconstructed from chemical formula,main-available,Reconstructed independently because workbook external formula duplicates sigma_chi.
+vacancy_concentration,候选18 空位浓度,AUX,defect-model control,%,Nominal Li-vacancy concentration used in defect calculations,Defect supercell setup,main-available,
+li_mean_charge_loss,候选19 Li_mean_charge_loss,E,Bader duplicate,e,Duplicate representation of mean Li Bader charge loss,Workbook-derived duplicate,redundant-audit-only,"Compared with li_mean_bader_charge; retained for audit, excluded from main matrix."
+vacancy_concentration_percent,候选20 vacancy_concentration_percent,AUX,defect-model control duplicate,%,Duplicate representation of nominal vacancy concentration,Workbook-derived duplicate,redundant-audit-only,"Compared with vacancy_concentration; retained for audit, excluded from main matrix."
+Li_vacancy_formation_energy,Y 最低中性Li空位形成能 E_f(V_Li^0) (eV),Y,target,eV,Minimum neutral Li-vacancy formation energy over all inequivalent Li sites,DFT defect calculations; 46 sites reduced to 24 material-level minima,target,Not used as a feature or transformed target.

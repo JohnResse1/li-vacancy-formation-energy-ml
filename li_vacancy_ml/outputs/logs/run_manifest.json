@@ -1,0 +1,42 @@
+{
+  "run_utc": "2026-10-12T10:58:40.841656+00:00",
+  "project_root": "/Users/srp_group/Desktop/bts2/li_vacancy_ml",
+  "config": {
+    "random_seed": 42,
+    "bootstrap_replicates": 2000,
+    "coefficient_bootstrap_replicates": 500,
+    "inner_cv_folds": 5,
+    "input_excel": "data/original/CIJ-24种补锂材料_核心候选描述符矩阵.xlsx",
+    "input_pdf": "data/original/24种锂基材料_Bader_ELF与Li空位形成能计算报告.pdf",
+    "output_root": "outputs",
+    "target_column": "Y 最低中性Li空位形成能 E_f(V_Li^0) (eV)",
+    "run_group_cv": true,
+    "run_sensitivity_experiments": true,
+    "target_transforms": [
+      "identity",
+      "sqrt",
+      "log"
+    ],
+    "subset_k_values": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      8,
+      10,
+      "all"
+    ]
+  },
+  "input_excel": "/Users/srp_group/Desktop/bts2/li_vacancy_ml/data/original/CIJ-24种补锂材料_核心候选描述符矩阵.xlsx",
+  "input_excel_sha256": "5631b21f604d83f14a38ba6d8c8f19aa4cd451556d1eb9b694e6bcbc9f781ab9",
+  "input_pdf": "/Users/srp_group/Desktop/bts2/li_vacancy_ml/data/original/24种锂基材料_Bader_ELF与Li空位形成能计算报告.pdf",
+  "input_pdf_sha256": "b292420b46d4b723bbdcb813a159d79f09830929e6fd5e98da2bb22fa093ea2d",
+  "python": "3.13.13",
+  "platform": "macOS-27.0-arm64-arm-64bit-Mach-O",
+  "numpy": "2.4.6",
+  "pandas": "3.0.3",
+  "scipy": "1.17.1",
+  "scikit_learn": "1.8.0"
+}

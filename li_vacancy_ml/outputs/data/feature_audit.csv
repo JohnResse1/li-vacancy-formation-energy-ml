@@ -1,0 +1,6 @@
+feature_1,feature_2,relation_type,slope,intercept,max_abs_residual,pearson_r,note
+li_mean_bader_charge,li_mean_charge_loss,same_quantity_different_precision,0.9999975332231966,2.094843205846395e-06,4.337533227039003e-06,0.9999999999539252,Same physical quantity at different numerical precision; use one in the main matrix.
+li_framework_electronegativity_difference,mean_framework_electronegativity,deterministic_linear,1.0000000000000004,0.9800000000000001,1.3322676295501878e-15,1.0,Affine redundancy; retain one representation in the main matrix.
+mean_atomic_number,mean_atomic_mass,very_high_statistical_correlation,2.316608430630945,-1.3238178666666143,1.386038791587346,0.9956982446983234,Potentially unstable split importance; interpret jointly.
+vacancy_concentration,vacancy_concentration_percent,exact_duplicate,1.0,0.0,0.0,1.0,Do not include both in the main explanatory model.
+volume_per_atom,li_atomic_fraction,deterministic_nonlinear,,,3.552713678800501e-15,0.41216293367080475,volume_per_li = volume_per_atom / li_atomic_fraction; physically distinct but algebraically linked.

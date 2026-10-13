@@ -1,0 +1,3 @@
+column,formula_examples,cached_value_examples,n_name_errors_in_formula,contains_external_reference
+候选16 骨架电负性标准差 σ_χ,=[1]组成与元素参数!W2; =[1]组成与元素参数!W3,0.6439999999999997; 0.6239999999999974,0,True
+候选17 框架含氧原子分数 xO_fw,=[1]组成与元素参数!W2; =[1]组成与元素参数!W3,0.6439999999999997; 0.6239999999999974,0,True

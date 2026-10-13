@@ -1,0 +1,10 @@
+2026-10-12 18:58:40,941 INFO Loading workbook and reconstructing auditable canonical fields
+2026-10-12 18:58:42,216 INFO Data audit complete: 24 material rows, canonical feature fields are available
+2026-10-12 18:58:42,217 INFO Running Pearson/Spearman correlations and bootstrap intervals
+2026-10-12 18:58:47,823 INFO Running nested LOOCV benchmark
+2026-10-12 19:00:18,543 INFO Running nested feature-subset and target-transform sensitivity experiments
+2026-10-12 19:03:02,983 INFO Running feature-group ablation and coefficient stability
+2026-10-12 19:03:03,542 INFO Running material and category robustness diagnostics
+2026-10-12 19:03:03,892 INFO Rendering figures
+2026-10-12 19:03:05,752 INFO Writing technical report
+2026-10-12 19:03:05,759 INFO Complete. Report: /Users/srp_group/Desktop/bts2/li_vacancy_ml/outputs/reports/ML_research_report.md

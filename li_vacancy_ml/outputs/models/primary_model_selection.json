@@ -1,0 +1,15 @@
+{
+  "experiment": "M1",
+  "experiment_label": "Eg only",
+  "model": "SVR_linear",
+  "feature_count": 1,
+  "features": "band_gap",
+  "MAE": 0.7031335039585911,
+  "RMSE": 0.9016717170928996,
+  "R2": 0.6290280959337717,
+  "MedianAE": 0.501621472681069,
+  "MaxAE": 1.9656597941306266,
+  "numerical_winner_experiment": "M5",
+  "numerical_winner_model": "SVR_linear",
+  "numerical_winner_MAE": 0.6739771977901917
+}
